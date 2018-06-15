@@ -1,0 +1,323 @@
+% Encoding: UTF-8
+
+@Book{7300075649,
+  author       = {W. Lawrence Neuman},
+  title        = {社会研究方法},
+  year         = {2007},
+  translator   = {郝大海},
+  subtitle     = {定性和定量的取向},
+  language     = {Chinese},
+  origlanguage = {English},
+  publisher    = {中国人民大学出版社},
+  isbn         = {7-300-07564-9},
+  address      = {北京},
+}
+
+@Book{9787511710345,
+  author     = {道格拉斯 凯尔纳 and 斯蒂文 贝斯特},
+  title      = {后现代理论},
+  year       = {2012},
+  translator = {张志斌},
+  subtitle   = {批判性的质疑},
+  publisher  = {中央编译出版社},
+  isbn       = {9787511710345},
+  address    = {北京},
+}
+
+@Online{20142020,
+  author       = {中共中央 and 国务院},
+  title        = {国家新型城镇化规划(2014－2020)},
+  date         = {2014-03-16},
+  url          = {http://www.gov.cn/zhengce/2014-03/16/content_2640075.htm},
+  organization = {新华社},
+}
+
+@Book{capital,
+  author     = {卡尔 马克思},
+  title      = {资本论},
+  year       = {2004},
+  translator = {中共中央马克思恩格斯列宁斯大林著作编译局},
+  subtitle   = {第一卷（共三卷）},
+  publisher  = {人民出版社},
+  isbn       = {9787010041155},
+  address    = {北京},
+}
+
+@Book{9787532763610,
+  author     = {大卫 哈维},
+  title      = {跟大卫·哈维读《资本论》},
+  year       = {2014},
+  translator = {刘英},
+  subtitle   = {第一卷},
+  publisher  = {上海译文出版社},
+  isbn       = {9787532763610},
+  address    = {上海},
+}
+
+@Article{britishworkday,
+  author  = {陈日华},
+  title   = {19世纪英国对工厂制度的规制:实践与立法},
+  journal = {贵州社会科学},
+  year    = {2014},
+  issue   = {289},
+  month   = {1},
+}
+
+@Online{zuihen,
+  author       = {滴滴北京},
+  title        = {滴滴大数据 ｜ 2016年最“狠”公司大揭秘},
+  year         = {2016},
+  url          = {https://mp.weixin.qq.com/s?__biz=MzI3NjAyODM0NQ==&mid=2650506049&idx=2&sn=38698a2abe64348969f064704c62ae02},
+  organization = {滴滴北京},
+}
+
+@Online{tai58,
+  author       = {钛媒体},
+  title        = {58同城要实行“996工作制”了，姚劲波微博正被员工攻陷},
+  date         = {2016-09-02},
+  url          = {http://www.tmtpost.com/2453930.html},
+  organization = {钛媒体},
+}
+
+@Article{guojilaogongshijian,
+  author = {丁赛尔},
+  title  = {国际劳工实践标准将对我国企业构成潜在威胁},
+  date   = {2011-11-18},
+  number = {003},
+  note   = {news},
+}
+
+@Article{fushikangzuixin,
+  author  = {"新生代"ilabour课题组},
+  title   = {富士康最新工资、工时与生产管理调研},
+  journal = {政治经济学报},
+  year    = {2015},
+  volume  = {4},
+  issue   = {1},
+  pages   = {97-132},
+}
+
+@Online{huaweimaiduan,
+  author = {中国网},
+  title  = {华为买断工龄终辟谣 专家指其行为“双输”},
+  date   = {2007-11-08},
+  url    = {http://www.china.com.cn/tech/txt/2007-11/08/content_9196708.htm},
+}
+
+@Online{huaweifendou,
+  author = {瞭望东方周刊},
+  title  = {华为：“自愿”的奋斗者协议},
+  date   = {2010-09-21},
+  url    = {http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html},
+}
+
+@Online{foxconnwiki,
+  title        = {Foxconn},
+  url          = {https://en.wikipedia.org/wiki/Foxconn},
+  organization = {Wikipidea},
+}
+
+@Online{panyuan,
+  author = {南都周刊},
+  title  = {无国界医生组织首位内地成员的8年救援生涯},
+  date   = {2006-10-28},
+  url    = {http://news.sina.com.cn/c/2006-10-28/160311358033.shtml},
+}
+
+@Article{tuzheng,
+  author  = {罗雪挥 and 李楠},
+  title   = {屠铮　在利比里亚当“无国界医生”},
+  journal = {人民日报海外版},
+  date    = {2008-12-31},
+  number  = {07},
+  note    = {news},
+}
+
+@Online{jiangli,
+  author = {丽水市教育局},
+  title  = {《朗读者》首期特邀嘉宾蒋励},
+  url    = {http://www.sohu.com/a/127492681_387142},
+}
+
+@Online{kandaijiangli,
+  title = {如何看待北京医生辞职去阿富汗参加无国界医生？},
+  url   = {https://www.zhihu.com/question/53835987},
+}
+
+@Article{yousheng,
+  author  = {邱仁宗},
+  title   = {一本医学家、遗传学家、决策者和立法者必读的书——读《从“安乐死”到最终解决》},
+  journal = {医学与哲学},
+  year    = {2002},
+  volume  = {23},
+  number  = {5},
+  month   = {5},
+  pages   = {61-63},
+}
+
+@Online{mattwhite,
+  author   = {Matthew White},
+  title    = {Necrometrics},
+  url      = {http://necrometrics.com/all20c.htm},
+  subtitle = {Death Tolls across history},
+}
+
+@Online{renquanwiki,
+  title = {人权},
+  url   = {https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%9D%83},
+}
+
+@Book{9787500415480,
+  author    = {郑麒来},
+  title     = {中国古代的食人},
+  year      = {1994},
+  subtitle  = {人吃人行为透视},
+  publisher = {中国社会科学出版社},
+  isbn      = {9787500415480},
+  address   = {北京},
+}
+
+@Article{renxiangshi,
+  author  = {易江波},
+  title   = {人相食”：中国史中的一个固有表述及其法理},
+  journal = {人大法律评论},
+  year    = {2015},
+  volume  = {2},
+}
+
+@Book{9787510048623,
+  author     = {H W 詹森},
+  title      = {詹森艺术史（插图第7版）},
+  year       = {2013},
+  translator = {艺术史组合翻译实验小组},
+  publisher  = {世界图书出版公司北京公司},
+  isbn       = {9787510048623},
+  address    = {北京},
+}
+
+@Article{boduoyishu,
+  author   = {刘悦笛},
+  title    = {哲学如何剥夺艺术},
+  journal  = {哲学研究},
+  year     = {2006},
+  subtitle = {当代“艺术终结论”的哲学反思},
+  number   = {02},
+  pages    = {78-84},
+}
+
+@Article{dantuozhenduan,
+  author   = {周计武},
+  title    = {艺术的终结},
+  journal  = {学习与探索},
+  year     = {2006},
+  subtitle = {阿瑟·丹托的诊断},
+  volume   = {164},
+  number   = {3},
+  pages    = {126-129},
+}
+
+@Article{wangduanting,
+  author  = {王端廷},
+  title   = {西方现代、后现代和当代艺术的分期与区别},
+  journal = {东方艺术},
+  year    = {2013},
+  number  = {01},
+  pages   = {164-165},
+}
+
+@Article{whatsart,
+  author  = {周计武},
+  title   = {什么是我们的当代艺术},
+  journal = {文艺研究},
+  year    = {2013},
+  number  = {03},
+  pages   = {25-33},
+}
+
+@Book{7214029774,
+  author     = {阿瑟 丹托},
+  title      = {艺术的终结},
+  year       = {2005},
+  translator = {欧阳英},
+  publisher  = {江苏人民出版社},
+  isbn       = {7214029774},
+  address    = {南京},
+}
+
+@MastersThesis{fuwendantuo,
+  author      = {付雯},
+  title       = {艺术终结了吗？},
+  institution = {山东大学},
+  date        = {2006-05-06},
+  type        = {mathesis},
+  subtitle    = {论丹托的“艺术终结论”},
+  address     = {济南},
+}
+
+@Article{artistyinmou,
+  author     = {让 鲍德里亚},
+  title      = {艺术的阴谋},
+  journal    = {艺苑},
+  year       = {2014},
+  translator = {万书元},
+  number     = {06},
+  pages      = {6-8},
+}
+
+@Article{yishudexiaoshi,
+  author     = {让 鲍德里亚},
+  title      = {不是艺术的消失，而是美学的饱和},
+  journal    = {中国艺术},
+  year       = {2016},
+  translator = {程小牧},
+  number     = {04},
+  pages      = {124-127},
+}
+
+@Book{capital2,
+  author     = {卡尔 马克思},
+  title      = {资本论},
+  year       = {2004},
+  translator = {中共中央马克思恩格斯列宁斯大林著作编译局},
+  subtitle   = {第二卷（共三卷）},
+  publisher  = {人民出版社},
+  isbn       = {9787010041162},
+  address    = {北京},
+}
+
+@Book{karlvol46a,
+  author     = {卡尔 马克思 and 弗里德里希 恩格斯},
+  title      = {马克思恩格斯全集},
+  year       = {1979},
+  translator = {中共中央马克思恩格斯列宁斯大林著作编译局},
+  subtitle   = {第46卷上册},
+  edition    = {1},
+  publisher  = {人民出版社},
+  address    = {北京},
+  month      = {7},
+}
+
+@Book{capital3,
+  author     = {卡尔 马克思},
+  title      = {资本论},
+  year       = {2004},
+  translator = {中共中央马克思恩格斯列宁斯大林著作编译局},
+  subtitle   = {第三卷（共三卷）},
+  publisher  = {人民出版社},
+  isbn       = {9787010041179},
+  address    = {北京},
+}
+
+@Book{karlvol46b,
+  author     = {卡尔 马克思 and 弗里德里希 恩格斯},
+  title      = {马克思恩格斯全集},
+  year       = {1979},
+  translator = {中共中央马克思恩格斯列宁斯大林著作编译局},
+  subtitle   = {第46卷下册},
+  edition    = {1},
+  publisher  = {人民出版社},
+  address    = {北京},
+  month      = {7},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

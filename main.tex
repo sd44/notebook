@@ -1,0 +1,279 @@
+\RequirePackage[l2tabu, orthodox]{nag} %编译时，给出过时命令和不规范使用警告。
+
+\documentclass[UTF8, fontset = sourcesans, a4paper, oneside, zihao = -4,
+scheme=chinese, no-math]{ctexbook}
+
+\XeTeXgenerateactualtext=1
+\usepackage[backend=biber,style=gb7714-2015,backref=true]{biblatex}
+\addbibresource[location=local]{ref/refs.bib}
+
+\usepackage{verse}
+
+\ctexset{%
+  abstractname = {摘\quad 要},  % book类没有摘要
+  bibname = {参考文献},
+  today = {big}
+}
+\xeCJKsetup{CJKmath=true}
+
+
+% 插图所需的宏包
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf}
+
+\usepackage{amsmath, amssymb, xfrac}
+\usepackage[math-style=ISO, bold-style=ISO]{unicode-math} %注意，unicode-math与被其认为过时的bm包不兼容，不要\usepackage{bm}
+
+\makeatletter
+\renewcommand{\normalsize}{
+  \zihao{4}
+    \abovedisplayskip 14\p@ \@plus5\p@ \@minus7\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+    \belowdisplayskip \abovedisplayskip
+    \let\@listi\@listI
+}
+
+\renewcommand{\small}{
+  \zihao{-4}
+    \abovedisplayskip 12\p@ \@plus4\p@ \@minus7\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+    \belowdisplayskip \abovedisplayskip
+    \let\@listi\@listI
+}
+
+\renewcommand{\footnotesize}{
+  \zihao{5}
+    \abovedisplayskip 11\p@ \@plus3\p@ \@minus7\p@
+    \abovedisplayshortskip \z@ \@plus3\p@
+    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+    \def\@listi{\leftmargin\leftmargini
+                \topsep 9\p@ \@plus3\p@ \@minus5\p@
+                \parsep 4.5\p@ \@plus2\p@ \@minus\p@
+                \itemsep \parsep}
+    \belowdisplayskip \abovedisplayskip
+    \let\@listi\@listI
+}
+
+\renewcommand{\scriptsize}{\zihao{-5}}
+\renewcommand{\tiny}{\zihao{6}}
+\makeatother
+
+\setmainfont[Scale=1.18]{Libertinus Serif}
+% \setsansfont{Libertinus Sans}
+\setmathfont[AutoFakeBold,Scale = 1.18]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
+                                % 有粗体，这里设置为允许伪粗体渲染。
+
+% \setmainfont{Latin Modern Roman}
+\setsansfont{TeX Gyre Heros}
+% \setmathfont{Latin Modern Math}
+%
+% \setmainfont{Source Han Serif CN}
+% \setsansfont[BoldFont=Source Han Sans CN Medium]{Source Han Sans CN Normal}
+
+% \usepackage[lining]{libertine} % a bit lighter than Times--no osf in math
+% \usepackage[T1]{fontenc} % best for Western European languages
+% \usepackage{textcomp} % required to get special symbols
+% \usepackage[varqu,varl]{inconsolata}% a typewriter font must be defined
+% \usepackage{amsthm}% must be loaded before newtxmath
+% \usepackage[libertine,vvarbb]{newtxmath}
+% \usepackage[scr=rsfso]{mathalfa}
+% \usepackage{bm}% load after all math to give access to bold math
+% %After loading math package, switch to osf in text.
+% \useosf % for osf in normal text
+
+
+\defaultfontfeatures{Scale=MatchLowercase}
+%\setmainfont{Linux Libertine O}
+% \setsansfont{TeX Gyre Heros}
+
+\usepackage{etoolbox}
+\usepackage{zref-perpage}
+\zmakeperpage{footnote}
+
+% % for number of footnote 
+% 作者：刘海洋
+% 链接：https://www.zhihu.com/question/53030087/answer/136097745
+% 来源：知乎
+% 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+\makeatletter
+
+% 无上标的 \@makefnmark
+\def\nosuper@makefnmark{\hbox{\normalfont\@thefnmark\space}}
+
+% 补丁
+\patchcmd\@makefntext{\@makefnmark}{\nosuper@makefnmark}{}{}
+
+%% 不用 etoolbox 的另一种打临时热补丁的写法
+% \let\save@makefntext\@makefntext
+% \long\def\@makefntext#1{{%
+%   \let\@makefnmark\nosuper@makefnmark
+%   \save@makefntext{#1}}}
+
+% XeTeX 或 LuaTeX 下带圈数字 \thefootnote 的一种定义
+\usepackage{xunicode-addon}
+\newfontfamily\fnmarkfont{ipam.ttf}
+\renewcommand\thefootnote{{\fnmarkfont\textcircled{\arabic{footnote}}}}
+\makeatother
+
+\AtBeginEnvironment{quotation}{\kaishu}
+
+
+\usepackage{fancyhdr, geometry}
+\pagestyle{headings}
+% \pagestyle{fancy}
+% \fancyhead[LE,RO]{\rightmark}
+% \fancyhead[LO,RE]{\leftmark}
+% \fancyfoot[C]{\thepage}
+% \renewcommand{\headrulewidth}{0.4pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+\geometry{%
+  scale=0.8
+    % margin=1cm,
+    % marginparsep = 0.5cm,
+    % marginparwidth=1cm,
+    % top = 4cm,
+    % bottom = 4cm,
+    % outer = 2.5cm,
+    % inner = 2.5cm
+}
+
+% \usepackage{footnotebackref}  %bug
+\usepackage{hyperref}
+
+% from package hyperref
+\hypersetup{%
+  colorlinks,
+  citecolor=magenta,
+  linkcolor=blue,
+  bookmarksnumbered = true,
+  pdftitle = {读书笔记},
+  pdfcreator = {sd44sd44@yeah.net},
+  pdfauthor = {蛋疼的蛋蛋},
+    % pdfsubject = {},
+    % pdfkeywords = {}
+}
+% for format of contents
+
+\usepackage{bookmark}
+\usepackage{booktabs}
+\usepackage{lscape}
+
+\usepackage{float} %允许浮动体强制在下方
+% 双栏排版
+% \usepackage{multicol}
+% 有时候, 浮动的边注在双面模式下会出现在错误的一侧, mparhack 可以修正该问题
+% \usepackage{mparhack}
+
+
+% for format of contents
+\usepackage{tocloft}
+\usepackage{tocbibind}
+% \renewcommand\cftsecleader{\cftdotfill{\cftdotsep}} % ctexart的目录中，section也加点。
+% \renewcommand*{\cftchapleader}{\cftdotfill{\cftdotsep}} % ctexbook中，chapter也加点。
+
+\renewcommand{\cfttoctitlefont}{\hfill\Large\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill} %使“目录”居中显示，将其中的toc改为lof
+                                %和lot，则会使浮动体列表和表格列表也居中显示
+
+% \renewcommand{\contentsname}{\hspace*{\fill}\bfseries\Large
+% 目录 \hspace*{\fill}}   % 不使用tocloft宏包时也适用的命令。
+
+% 设置目录中各级缩进
+\settowidth{\cftsecindent}{2em}
+\settowidth{\cftsubsecindent}{4em}
+% 设置目录中 chapter 章节编号的宽度 (ctex 章节编号为中文, 需要特别注意).
+% 参考 <<LaTeX 入门>>, 刘海洋 编著, 电子工业出版社, 2013.6
+% \settowidth\cftchapnumwidth{第十章} % 最宽的可能编号
+% \renewcommand\cftchapaftersnumb{\hspace{0.5em}} % 额外间距
+
+% 定义所有的图片文件在 figures 子目录下
+\graphicspath{{figures/}}
+%
+% dedication environment
+
+\newenvironment{dedication}
+  {\clearpage           % we want a new page      
+   \large
+   \thispagestyle{empty}% no header and footer
+   \vspace*{\stretch{1}}% some space at the top
+   \slshape             % the text is in slshape
+   % \raggedleft          % flush to the right margin
+  }
+  {\par % end the paragraph
+   \vspace{\stretch{3}} % space at bottom is three times that at the top
+   \clearpage           % finish off the page
+  }
+
+% 使用unicode字体中的单个罗马数字实现
+\makeatletter
+\def\rnum#1{\symbol{\numexpr"216F+#1\relax}}
+\def\Rnum#1{\symbol{\numexpr"215F+#1\relax}}
+\def\uroman#1{\rnum{\the\value{#1}}}
+\def\uRoman#1{\Rnum{\the\value{#1}}}
+
+% \newcommand{\Rnum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+\makeatother
+% \title {新型城镇化规划进行中的\\丁家庄城中村社会调查报告}
+% \author{孙滨 \and  \url{http://sd44.github.com}}
+% \date{\today}
+
+\begin{document}
+
+\frontmatter
+% \include{data/titlepage}
+%\include{data/dedication}
+
+%% 目录
+\tableofcontents
+
+%\pagenumbering{Alph}
+% \include{dta/preface}
+
+%% 符号对照表
+%\input{data/denotation}
+%%% 正文部分
+
+\mainmatter
+% \include{data/跟大卫哈维读资本论/1}
+% \include{data/跟大卫哈维读资本论/2-1}
+% \include{data/跟大卫哈维读资本论/2-2}
+% \include{data/跟大卫哈维读资本论/2-3}
+% \include{data/跟大卫哈维读资本论/2-4}
+% \include{data/跟大卫哈维读资本论/2-5}
+% \include{data/marx1883-1929/1}
+% \include{data/marx1883-1929/2}
+\include{data/marx1929-1990/1}
+\include{data/marx1929-1990/2}
+\include{data/marx1929-1990/3}
+
+%%% 其它部分
+%% 本科生要这几个索引，研究生不要。选择性留下。
+% 插图索引
+%\listoffigures
+% 表格索引
+%\listoftables
+% 公式索引
+%\listofequations
+
+
+%% 参考文献
+\clearpage
+\appendix
+\phantomsection
+\addcontentsline{toc}{part}{附录}
+\printbibliography[heading=bibnumbered,title=参考文献]
+
+% \chapter{test Append1}
+% \chapter{test Append2}
+
+\backmatter
+
+
+\end{document}

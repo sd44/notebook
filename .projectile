@@ -1,0 +1,9 @@
+-auto
+-*.bbl
+-*.aux
+-*.bcf
+-*.blg
+-*.log
+-*.pdf
+-*.def
+-LICENSE

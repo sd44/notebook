@@ -1,0 +1,6 @@
+main/
+auto/
+*/auto/
+*/*.aux
+*/*.swp
+*.aux

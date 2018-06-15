@@ -1,0 +1,28 @@
+#+BEGIN_SRC dot :file ./test.pdf :cmdline -Kdot -Tpdf
+digraph test{
+  newrank=true;
+  node [shape=record];
+  rankdir=LR;
+
+subgraph cluster_marx{
+  // rankdir=LR;
+  label="马克思的路径";
+  a [label="生产条件、实际工资"];
+  b [label="价值、剩余价值"];
+  c [label="转型计算法"];
+  d [label="生产价格、利润率"];
+  a->b->c->d;
+}
+
+subgraph cluster_sraffa{
+  // rankdir=LR;
+  label= "斯拉法的路径";
+  e [label="生产条件、实际工资"];
+  f [label="生产价格、利润率"];
+  e->f;
+} 
+{rank=same; f; d;} 
+{rank=same; a; e;}
+}
+#+END_SRC
+

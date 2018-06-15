@@ -1,0 +1,21 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage{graphicx}
+\begin{table}[htbp]
+\centering
+\caption{格罗斯曼的危机模型（复杂的）}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}llllllllll@{}}
+\toprule
+年份 & \begin{tabular}[c]{@{}l@{}}不变资本\\ c\end{tabular} & \begin{tabular}[c]{@{}l@{}}可变资本\\ v\end{tabular} & \begin{tabular}[c]{@{}l@{}}剩余价值\\ s\end{tabular} & \begin{tabular}[c]{@{}l@{}}资本家的消费\\ k\end{tabular} & \begin{tabular}[c]{@{}l@{}}增加的\\ 不变资本\\ $a_c$\end{tabular} & \begin{tabular}[c]{@{}l@{}}增加的\\ 可变资本\\ $a_v$\end{tabular} & \begin{tabular}[c]{@{}l@{}}借贷资本\\ L\end{tabular} & \begin{tabular}[c]{@{}l@{}}资本家积\\ 累的财富\\  *\end{tabular} & 失业 \\ \midrule
+1 & 200000 & 25000 & 25000 & 2500 & 10000 & 56 & 12444 & 12444 & 0 \\
+2 & 210000 & 25056 & 25056 & 2505 & 14700 & 535 & 7316 & 19760 & 1194 \\
+3 & 224700 & 25591 & 25591 & 2559 & 20223 & 1056 & 1753 & 21513 & 1971 \\
+4 & 244923 & 26647 & 26647 & 2664 & 26941 & 1565 & -4523 & 16990 & 2193 \\
+5 & 271864 & 28812 & 28812 & 2881 & 35320 & 2238 & -12167 & 4823 & 2175 \\
+6 & 307184 & 30450 & 30450 & 3045 & 44077 & 2477 & -19249 & -14426 & 1456 \\
+7 & (253361） & （32927） & （32927） &  &  &  &  &  & 74 \\ \bottomrule
+\multicolumn{10}{l}{* 通过加总（正的或负的）当年和以前年份储蓄的借贷资本量计算。}  
+\end{tabular}%
+}
+\end{table}

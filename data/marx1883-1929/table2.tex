@@ -1,0 +1,22 @@
+% Please add the following required packages to your document preamble:
+% \usepackage{booktabs}
+% \usepackage{graphicx}
+\begin{table}[htbp]
+\centering
+\caption{格罗斯曼的危机模型（简单的）}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lllllllll@{}}
+\toprule
+年份 & \begin{tabular}[c]{@{}l@{}}不变资本\\ c\end{tabular} & \begin{tabular}[c]{@{}l@{}}可变资本\\ v\end{tabular} & \begin{tabular}[c]{@{}l@{}}剩余价值\\ s\end{tabular} & \begin{tabular}[c]{@{}l@{}}资本家的消费\\ k\end{tabular} & \begin{tabular}[c]{@{}l@{}}增加的\\ 不变资本\\ $a_c$\end{tabular} & \begin{tabular}[c]{@{}l@{}}增加的\\ 可变资本\\ $a_v$\end{tabular} & \begin{tabular}[c]{@{}l@{}}潜在的借贷资本\\ L\end{tabular} & 失业 \\ \midrule
+1 & 200000 & 25000 & 25000 & 2500 & 10000 & 56 & 12444 & 0 \\
+2 & 210000 & 25056 & 25056 & 2505 & 10500 & 57 & 11994 & 1194 \\
+3 & 220000 & 25113 & 25113 & 2511 & 11025 & 61 & 11516 & 2449 \\
+4 & 231000 & 25174 & 25174 & 2517 & 11576 & 72 & 11009 & 3766 \\
+5 & 243101 & 25246 & 25246 & 2524 & 12515 & 57 & 10510 & 5141 \\
+6 & 255256 & 25303 & 25303 & 2530 & 12762 & -461 & 10011 & 16603 \\
+7 & 260018 & 24842 & 24842 & 2484 & 13201 & 38 & 9211 & 7974 \\
+8 & 281219 & 24880 & 24880 & 2488 & 14060 & -154 & 8386 & 9576 \\ \bottomrule
+\multicolumn{9}{l}{* 任一年的失业的增加都等于上一年的v的5\%减去上一年的$a_v$。}  
+\end{tabular}%
+}
+\end{table}
