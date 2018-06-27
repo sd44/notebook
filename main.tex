@@ -1,9 +1,11 @@
 \RequirePackage[l2tabu, orthodox]{nag} %编译时，给出过时命令和不规范使用警告。
 
-\documentclass[UTF8, fontset = sourcesans, a4paper, oneside, zihao = -4,
-scheme=chinese, no-math]{ctexbook}
+\documentclass[UTF8, fontset = sourcesans, a4paper, twoside, openany, zihao =
+-4, scheme=chinese, no-math]{ctexbook}
 
 \XeTeXgenerateactualtext=1
+
+
 \usepackage[backend=biber,style=gb7714-2015,backref=true]{biblatex}
 \addbibresource[location=local]{ref/refs.bib}
 
@@ -27,69 +29,53 @@ scheme=chinese, no-math]{ctexbook}
 \usepackage{amsmath, amssymb, xfrac}
 \usepackage[math-style=ISO, bold-style=ISO]{unicode-math} %注意，unicode-math与被其认为过时的bm包不兼容，不要\usepackage{bm}
 
-\makeatletter
-\renewcommand{\normalsize}{
-  \zihao{4}
-    \abovedisplayskip 14\p@ \@plus5\p@ \@minus7\p@
-    \abovedisplayshortskip \z@ \@plus3\p@
-    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
-    \belowdisplayskip \abovedisplayskip
-    \let\@listi\@listI
-}
+% \makeatletter
+% \renewcommand{\normalsize}{
+%   \zihao{4}
+%     \abovedisplayskip 14\p@ \@plus5\p@ \@minus7\p@
+%     \abovedisplayshortskip \z@ \@plus3\p@
+%     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+%     \belowdisplayskip \abovedisplayskip
+%     \let\@listi\@listI
+% }
 
-\renewcommand{\small}{
-  \zihao{-4}
-    \abovedisplayskip 12\p@ \@plus4\p@ \@minus7\p@
-    \abovedisplayshortskip \z@ \@plus3\p@
-    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
-    \belowdisplayskip \abovedisplayskip
-    \let\@listi\@listI
-}
+% \renewcommand{\small}{
+%   \zihao{-4}
+%     \abovedisplayskip 12\p@ \@plus4\p@ \@minus7\p@
+%     \abovedisplayshortskip \z@ \@plus3\p@
+%     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+%     \belowdisplayskip \abovedisplayskip
+%     \let\@listi\@listI
+% }
 
-\renewcommand{\footnotesize}{
-  \zihao{5}
-    \abovedisplayskip 11\p@ \@plus3\p@ \@minus7\p@
-    \abovedisplayshortskip \z@ \@plus3\p@
-    \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
-    \def\@listi{\leftmargin\leftmargini
-                \topsep 9\p@ \@plus3\p@ \@minus5\p@
-                \parsep 4.5\p@ \@plus2\p@ \@minus\p@
-                \itemsep \parsep}
-    \belowdisplayskip \abovedisplayskip
-    \let\@listi\@listI
-}
+% \renewcommand{\footnotesize}{
+%   \zihao{5}
+%     \abovedisplayskip 11\p@ \@plus3\p@ \@minus7\p@
+%     \abovedisplayshortskip \z@ \@plus3\p@
+%     \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+%     \def\@listi{\leftmargin\leftmargini
+%                 \topsep 9\p@ \@plus3\p@ \@minus5\p@
+%                 \parsep 4.5\p@ \@plus2\p@ \@minus\p@
+%                 \itemsep \parsep}
+%     \belowdisplayskip \abovedisplayskip
+%     \let\@listi\@listI
+% }
 
-\renewcommand{\scriptsize}{\zihao{-5}}
-\renewcommand{\tiny}{\zihao{6}}
-\makeatother
+% \renewcommand{\scriptsize}{\zihao{-5}}
+% \renewcommand{\tiny}{\zihao{6}}
+% \makeatother
 
-\setmainfont[Scale=1.18]{Libertinus Serif}
+\setmainfont[Scale=1.15]{Libertinus Serif}
 % \setsansfont{Libertinus Sans}
 \setmathfont[AutoFakeBold,Scale = 1.18]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
                                 % 有粗体，这里设置为允许伪粗体渲染。
 
-% \setmainfont{Latin Modern Roman}
 \setsansfont{TeX Gyre Heros}
-% \setmathfont{Latin Modern Math}
+\defaultfontfeatures{Scale=MatchLowercase}
 %
 % \setmainfont{Source Han Serif CN}
 % \setsansfont[BoldFont=Source Han Sans CN Medium]{Source Han Sans CN Normal}
 
-% \usepackage[lining]{libertine} % a bit lighter than Times--no osf in math
-% \usepackage[T1]{fontenc} % best for Western European languages
-% \usepackage{textcomp} % required to get special symbols
-% \usepackage[varqu,varl]{inconsolata}% a typewriter font must be defined
-% \usepackage{amsthm}% must be loaded before newtxmath
-% \usepackage[libertine,vvarbb]{newtxmath}
-% \usepackage[scr=rsfso]{mathalfa}
-% \usepackage{bm}% load after all math to give access to bold math
-% %After loading math package, switch to osf in text.
-% \useosf % for osf in normal text
-
-
-\defaultfontfeatures{Scale=MatchLowercase}
-%\setmainfont{Linux Libertine O}
-% \setsansfont{TeX Gyre Heros}
 
 \usepackage{etoolbox}
 \usepackage{zref-perpage}
@@ -125,24 +111,40 @@ scheme=chinese, no-math]{ctexbook}
 
 
 \usepackage{fancyhdr, geometry}
-\pagestyle{headings}
-% \pagestyle{fancy}
-% \fancyhead[LE,RO]{\rightmark}
-% \fancyhead[LO,RE]{\leftmark}
-% \fancyfoot[C]{\thepage}
-% \renewcommand{\headrulewidth}{0.4pt}
-% \renewcommand{\footrulewidth}{0pt}
 
 \geometry{%
-  scale=0.8
-    % margin=1cm,
-    % marginparsep = 0.5cm,
-    % marginparwidth=1cm,
-    % top = 4cm,
-    % bottom = 4cm,
-    % outer = 2.5cm,
-    % inner = 2.5cm
+  a4paper,
+  heightrounded,
+  % scale=0.7
+  % margin=0cm,
+  % marginparsep = 0.5cm,
+  % marginparwidth=1cm,
+  top = 3cm,
+  bottom = 3cm,
+  left = 2.6cm,
+  right = 2.6cm,
+  headheight = 6mm,
+  headsep = 5mm,
+  footskip = 6mm,
+  % outer = 2.5cm,
+  % inner = 2.5cm
 }
+
+% \pagestyle{headings}
+% \fancyhf{} % clear all header and footer fields
+% \lhead{}
+% \rhead{}
+% \chead{\slshape \zihao{5} \leftmark}
+\pagestyle{fancy}
+\fancyhead[LE,RO]{\slshape \zihao{5} \rightmark}
+\fancyhead[LO,RE]{\slshape \zihao{5} \leftmark}
+\fancyfoot[C]{\zihao{5} \thepage}
+\renewcommand{\headrulewidth}{0.75pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyheadoffset{0cm}
+
+\renewcommand{\bibfont}{\zihao{5}}
+\setlength\parskip{0em plus 4pt minus 2pt}
 
 % \usepackage{footnotebackref}  %bug
 \usepackage{hyperref}
@@ -224,6 +226,11 @@ scheme=chinese, no-math]{ctexbook}
 % \author{孙滨 \and  \url{http://sd44.github.com}}
 % \date{\today}
 
+\usepackage{enumitem}
+\setenumerate[1]{itemsep=0pt,partopsep=0pt,parsep=\parskip,topsep=5pt}
+\setitemize[1]{itemsep=0pt,partopsep=0pt,parsep=\parskip,topsep=5pt}
+\setdescription{itemsep=0pt,partopsep=0pt,parsep=\parskip,topsep=5pt}
+
 \begin{document}
 
 \frontmatter
@@ -247,11 +254,11 @@ scheme=chinese, no-math]{ctexbook}
 % \include{data/跟大卫哈维读资本论/2-3}
 % \include{data/跟大卫哈维读资本论/2-4}
 % \include{data/跟大卫哈维读资本论/2-5}
-% \include{data/marx1883-1929/1}
-% \include{data/marx1883-1929/2}
-\include{data/marx1929-1990/1}
-\include{data/marx1929-1990/2}
-\include{data/marx1929-1990/3}
+\include{data/marx1883-1929/1}
+\include{data/marx1883-1929/2}
+% \include{data/marx1929-1990/1}
+% \include{data/marx1929-1990/2}
+% \include{data/marx1929-1990/3}
 
 %%% 其它部分
 %% 本科生要这几个索引，研究生不要。选择性留下。
