@@ -1,0 +1,13 @@
+#+BEGIN_SRC dot :file ./test.pdf :cmdline -Kdot -Tpdf
+    digraph simi{
+      newrank=true
+
+      rankdir=LR
+      node [shape=box, color=red]
+    edge [label=取决于]
+
+  一国的财富->劳动生产力->劳动分工->{市场的范围->资本积累 资本积累}
+  一国的财富->"生产性劳动与\n非生产性劳动的比率"->资本积累
+  {rank=same;劳动生产力 "生产性劳动与\n非生产性劳动的比率"}
+  }
+#+END_SRC

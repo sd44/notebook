@@ -1,0 +1,118 @@
+;; RefTeX parse info file
+;; File: /home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex
+;; User: sd44 (sd44)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/home/sd44/xueshu/tex笔记系统/data/经济思想史/")
+
+(label-numbers)
+
+(bof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex")
+
+(toc "toc" "  1 导言" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 1 "1" "\\chapter{导言}" 1)
+
+(toc "toc" "    1.1 现代经济学思想的核心焦点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.1" "\\section{现代经济学思想的核心焦点}" 15)
+
+(toc "toc" "      1.1.1 现代经济理论的划分" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.1.1" "\\subsection{现代经济理论的划分}" 421)
+
+(toc "toc" "    1.2 我们研究经济思想史所采用的方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.2" "\\section{我们研究经济思想史所采用的方法}" 626)
+
+(toc "toc" "      1.2.1 相对论者的方法与绝对论者的方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.2.1" "\\subsection{相对论者的方法与绝对论者的方法}" 653)
+
+(toc "toc" "      1.2.2 正统的经济学家与费正统的经济学家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.2.2" "\\subsection{正统的经济学家与费正统的经济学家}" 1082)
+
+(toc "toc" "    1.3 非正统经济学家的角色" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.3" "\\section{非正统经济学家的角色}" 1443)
+
+(toc "toc" "    1.4 呈现思想多样性时的问题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.4" "\\section{呈现思想多样性时的问题}" 1465)
+
+(toc "toc" "    1.5 方法论问题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.5" "\\section{方法论问题}" 1488)
+
+(toc "toc" "      1.5.1 作为一门艺术与作为一门科学的经济学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.5.1" "\\subsection{作为一门艺术与作为一门科学的经济学}" 1505)
+
+(toc "toc" "      1.5.2 经验验证的重要性" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.5.2" "\\subsection{经验验证的重要性}" 2204)
+
+(toc "toc" "    1.6 从经济思想史研究中获得的益处" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.6" "\\section{从经济思想史研究中获得的益处}" 2452)
+
+(toc "toc" "    1.7 本章扩展内容" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.7" "\\section{本章扩展内容}" 2478)
+
+(toc "toc" "      1.7.1 方法论思想的演进" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.7.1" "\\subsection{方法论思想的演进}" 2741)
+
+(toc "toc" "    1.8 一些粗略的概括" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.8" "\\section{一些粗略的概括}" 6025)
+
+(toc "toc" "    1.9 非西方的经济思想" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.9" "\\section{非西方的经济思想}" 6277)
+
+(toc "toc" "    1.10 希腊思想" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.10" "\\section{希腊思想}" 6553)
+
+(toc "toc" "    1.11 亚里士多德" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.11" "\\section{亚里士多德}" 6824)
+
+(toc "toc" "    1.12 阿拉伯--伊斯兰思想" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.12" "\\section{阿拉伯--伊斯兰思想}" 7443)
+
+(toc "toc" "      1.12.1 艾布·哈米德·安萨里" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.12.1" "\\subsection{艾布·哈米德·安萨里}" 7667)
+
+(toc "toc" "      1.12.2 伊本·赫勒敦" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.12.2" "\\subsection{伊本·赫勒敦}" 7947)
+
+(toc "toc" "      1.12.3 需求与欲望" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.12.3" "\\subsection{需求与欲望}" 8151)
+
+(toc "toc" "    1.13 经院哲学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.13" "\\section{经院哲学}" 8354)
+
+(toc "toc" "      1.13.1 经院哲学思想的封建基础" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.13.1" "\\subsection{经院哲学思想的封建基础}" 8404)
+
+(toc "toc" "      1.13.2 托马斯·阿奎那" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "1.13.2" "\\subsection{托马斯·阿奎那}" 9016)
+
+(toc "toc" "  2 重商主义、重农主义及古典经济思想的其他先驱" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 1 "2" "\\chapter{重商主义、重农主义及古典经济思想的其他先驱}" 10251)
+
+(toc "toc" "    2.1 重商主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "2.1" "\\section{重商主义}" 10526)
+
+(toc "toc" "      2.1.1 每个人都是他自己的经济学家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.1" "\\subsection{每个人都是他自己的经济学家}" 10621)
+
+(toc "toc" "      2.1.2 权利与财富" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.2" "\\subsection{权利与财富}" 10699)
+
+(toc "toc" "      2.1.3 贸易平衡" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.3" "\\subsection{贸易平衡}" 11193)
+
+(toc "toc" "      2.1.4 货币与重商主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.4" "\\subsection{货币与重商主义}" 11550)
+
+(toc "toc" "      2.1.5 重商主义的现代分析" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.5" "\\subsection{重商主义的现代分析}" 11784)
+
+(toc "toc" "      2.1.6 重商主义者的理论贡献" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.1.6" "\\subsection{重商主义者的理论贡献}" 12200)
+
+(toc "toc" "    2.2 古典经济思想的影响力先驱" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "2.2" "\\section{古典经济思想的影响力先驱}" 12932)
+
+(toc "toc" "      2.2.1 托马斯·孟" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.1" "\\subsection{托马斯·孟}" 12956)
+
+(toc "toc" "      2.2.2 威廉·配第" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.2" "\\subsection{威廉·配第}" 13243)
+
+(toc "toc" "      2.2.3 伯纳德·曼德维尔" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.3" "\\subsection{伯纳德·曼德维尔}" 13538)
+
+(toc "toc" "      2.2.4 大卫·休谟" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.4" "\\subsection{大卫·休谟}" 14592)
+
+(toc "toc" "      2.2.5 理查德·坎蒂隆" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.5" "\\subsection{理查德·坎蒂隆}" 15171)
+
+(toc "toc" "      2.2.6 重农主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.6" "\\subsection{重农主义}" 15785)
+
+(toc "toc" "      2.2.7 自然法则" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.7" "\\subsection{自然法则}" 16092)
+
+(toc "toc" "      2.2.8 经济体的相关性" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.8" "\\subsection{经济体的相关性}" 16251)
+
+(toc "toc" "      2.2.9  " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 3 "2.2.9" "\\subsection{}" 17597)
+
+(toc "toc" "    2.3 西班牙经济思想" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "2.3" "\\section{西班牙经济思想}" 18335)
+
+(toc "toc" "    2.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "2.4" "\\section{总结}" 18894)
+
+("sec:-" "s" nil "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil "")
+
+(toc "toc" "    1.1 现代经济学思想的核心焦点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex" nil 2 "1.1" "\\section{现代经济学思想的核心焦点}" 15)
+
+(eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main1.tex")
+))
+
