@@ -66,7 +66,7 @@
 
 \setmainfont[Scale=1.15]{Libertinus Serif}
 % \setsansfont{Libertinus Sans}
-\setmathfont[AutoFakeBold,Scale = 1.18]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
+\setmathfont[AutoFakeBold,Scale = 1.1]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
                                 % 有粗体，这里设置为允许伪粗体渲染。
 
 \setsansfont{TeX Gyre Heros}
@@ -218,12 +218,12 @@
 
 % 使用unicode字体中的单个罗马数字实现
 \makeatletter
-\def\rnum#1{\symbol{\numexpr"216F+#1\relax}}
-\def\Rnum#1{\symbol{\numexpr"215F+#1\relax}}
-\def\uroman#1{\rnum{\the\value{#1}}}
-\def\uRoman#1{\Rnum{\the\value{#1}}}
+% \def\rnum#1{\symbol{\numexpr"216F+#1\relax}}
+% \def\Rnum#1{\symbol{\numexpr"215F+#1\relax}}
+% \def\uroman#1{\rnum{\the\value{#1}}}
+% \def\uRoman#1{\Rnum{\the\value{#1}}}
 
-% \newcommand{\Rnum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
+\newcommand{\Rnum}[1]{\uppercase\expandafter{\romannumeral #1\relax}}
 \makeatother
 % \title {新型城镇化规划进行中的\\丁家庄城中村社会调查报告}
 % \author{孙滨 \and  \url{http://sd44.github.com}}
@@ -313,10 +313,11 @@
 % \input{data/经济思想史/frontmatter}
 
 \mainmatter
-% \input{data/经济思想史/main1}
-% \input{data/经济思想史/main2}
-% \input{data/经济思想史/main3}
+\input{data/经济思想史/main1}
+\input{data/经济思想史/main2}
+\input{data/经济思想史/main3}
 \input{data/经济思想史/main4}
+\input{data/经济思想史/main5}
 % \include{data/跟大卫哈维读资本论/1}
 % \include{data/跟大卫哈维读资本论/2-1}
 % \include{data/跟大卫哈维读资本论/2-2}

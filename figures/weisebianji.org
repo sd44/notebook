@@ -1,0 +1,18 @@
+#+BEGIN_SRC dot :file ./test.pdf :cmdline -Kdot -Tpdf
+    digraph weisebianji{
+      newrank=true;
+      // rankdir=LR;
+      node [shape=box, color=red];
+
+      subgraph{
+
+      {rank=same;A; B; C;}
+      a [label="生产要素"];
+      b [label="生产要素"];
+      c [label="生产要素"];
+      {rank=same;a; b; c;}
+      C->c->b->a->A;
+      b->B;
+      }
+    }
+#+END_SRC
