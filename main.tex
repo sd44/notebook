@@ -12,8 +12,17 @@
 
 \ctexset{%
   abstractname = {摘\quad 要},  % book类没有摘要
-  bibname = {参考文献},
-  today = {big}
+  today = {small},
+  subsection/format += \centering,
+  part/pagestyle = empty,
+  chapter = {
+    pagestyle = empty, beforeskip = {-30pt}, afterskip = {20pt plus 5pt}},
+  section =
+  {beforeskip = {3ex plus 1ex minus 0.2ex}, afterskip = {2.3ex plus 0.2ex}},
+  subsection =
+  {beforeskip = {3ex plus 1ex minus 0.2ex}, afterskip = {1.5ex plus 0.2ex}},
+  subsubsection =
+  {beforeskip = {3ex plus 1ex minus 0.2ex}, afterskip = {1.5ex plus 0.2ex}}
 }
 \xeCJKsetup{CJKmath=true}
 
@@ -64,13 +73,16 @@
 % \renewcommand{\tiny}{\zihao{6}}
 % \makeatother
 
-\setmainfont[Scale=1.15]{Libertinus Serif}
+\setmainfont[Scale=1.1]{Libertinus Serif}
 % \setsansfont{Libertinus Sans}
-\setmathfont[AutoFakeBold,Scale = 1.1]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
+\setmathfont[Scale = 1.1]{Libertinus Math}  % 因Libertinus目前的数学字体暂还没
                                 % 有粗体，这里设置为允许伪粗体渲染。
 
 \setsansfont{TeX Gyre Heros}
 \defaultfontfeatures{Scale=MatchLowercase}
+
+\usepackage[bodytextleadingratio = 1.6, restoremathleading = true,
+footnoteleadingratio = 1.56]{zhlineskip}
 %
 % \setmainfont{Source Han Serif CN}
 % \setsansfont[BoldFont=Source Han Sans CN Medium]{Source Han Sans CN Normal}
@@ -114,21 +126,20 @@
 \geometry{%
   a4paper,
   heightrounded,
-  % scale=0.7
-  % margin=0cm,
-  % marginparsep = 0.5cm,
-  % marginparwidth=1cm,
+  includemp = false, % includes the margin notes, \marginparwidth and \marginparsep, into body when calculating horizontal calculation.
+  inner = 3.5cm,
+  outer = 3cm,
+  % marginparwidth = 80pt,
   top = 3cm,
   bottom = 3cm,
-  left = 2.6cm,
-  right = 2.6cm,
   headheight = 6mm,
-  headsep = 5mm,
+  headsep = 10mm,
   footskip = 10mm,
-  % outer = 2.5cm,
-  % inner = 2.5cm
 }
-
+% \makeatletter
+%  \def\@textbottom{\vskip \z@ \@plus 1pt}
+%  \let\@texttop\relax
+% \makeatother
 % \pagestyle{headings}
 % \fancyhf{} % clear all header and footer fields
 % \lhead{}
@@ -143,7 +154,7 @@
 \fancyheadoffset{0cm}
 
 \renewcommand{\bibfont}{\zihao{5}}
-\setlength\parskip{0em plus 4pt minus 2pt}
+\setlength\parskip{0em plus 3pt minus 1pt}
 
 % \usepackage{footnotebackref}  %bug
 \usepackage{hyperref}
@@ -164,6 +175,7 @@
 
 \usepackage{bookmark}
 \usepackage{booktabs}
+\usepackage{tabularx}
 \usepackage{lscape}
 
 \usepackage{float} %允许浮动体强制在下方
@@ -237,7 +249,8 @@
 \setlist[description]{style=standard, font=\sffamily\bfseries}
 \usepackage{multirow, tikz}
 \tikzset{every picture/.style={/utils/exec={\footnotesize}}}
-\usetikzlibrary{calc}
+\usetikzlibrary{calc,patterns,decorations.pathreplacing}
+\usetikzlibrary{datavisualization}
 \usepackage{tcolorbox}
 \tcbuselibrary{most}
 
@@ -296,7 +309,6 @@
 
 
 \begin{document}
-
 \frontmatter
 % \include{data/titlepage}
 %\include{data/dedication}
@@ -318,6 +330,7 @@
 \input{data/经济思想史/main3}
 \input{data/经济思想史/main4}
 \input{data/经济思想史/main5}
+\input{data/经济思想史/main6}
 % \include{data/跟大卫哈维读资本论/1}
 % \include{data/跟大卫哈维读资本论/2-1}
 % \include{data/跟大卫哈维读资本论/2-2}
