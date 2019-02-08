@@ -249,8 +249,8 @@ footnoteleadingratio = 1.56]{zhlineskip}
 \setlist[description]{style=standard, font=\sffamily\bfseries}
 \usepackage{multirow, tikz}
 \tikzset{every picture/.style={/utils/exec={\footnotesize}}}
-\usetikzlibrary{calc,patterns,decorations.pathreplacing}
-\usetikzlibrary{datavisualization}
+\usetikzlibrary{calc,patterns,decorations.pathreplacing, intersections}
+\usetikzlibrary{arrows,arrows.meta, datavisualization}
 \usepackage{tcolorbox}
 \tcbuselibrary{most}
 
@@ -347,11 +347,11 @@ footnoteleadingratio = 1.56]{zhlineskip}
 %%% 其它部分
 %% 本科生要这几个索引，研究生不要。选择性留下。
 % 插图索引
-%\listoffigures
+\listoffigures
 % 表格索引
-%\listoftables
+\listoftables
 % 公式索引
-%\listofequations
+% \listofequations
 
 
 %% 参考文献

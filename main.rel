@@ -15,7 +15,7 @@
 
 (master-dir . "/home/sd44/xueshu/tex笔记系统/")
 
-(label-numbers)
+(label-numbers ("eq:" . 2))
 
 (bof "/home/sd44/xueshu/tex笔记系统/main.tex")
 
@@ -151,143 +151,143 @@
 
 (toc "toc" "    6.1 亚当·斯密的博学多才" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.1" "\\section{亚当·斯密的博学多才}" 2655)
 
-(toc "toc" "      6.1.1 新教与资本主义：是否是一种因果联系" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.1.1" "\\subsection{新教与资本主义：是否是一种因果联系}" 3529)
+(toc "toc" "      6.1.1 新教与资本主义：是否是一种因果联系" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.1.1" "\\subsection{新教与资本主义：是否是一种因果联系}" 3530)
 
-(toc "toc" "    6.2 斯密的市场分析与政策结论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.2" "\\section{斯密的市场分析与政策结论}" 4037)
+(toc "toc" "    6.2 斯密的市场分析与政策结论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.2" "\\section{斯密的市场分析与政策结论}" 4038)
 
-(toc "toc" "      6.2.1 前后关联的经济政策" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.1" "\\subsection{前后关联的经济政策}" 4284)
+(toc "toc" "      6.2.1 前后关联的经济政策" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.1" "\\subsection{前后关联的经济政策}" 4285)
 
-(toc "toc" "      6.2.2 自然秩序、和谐与自由放任" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.2" "\\subsection{自然秩序、和谐与自由放任}" 4663)
+(toc "toc" "      6.2.2 自然秩序、和谐与自由放任" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.2" "\\subsection{自然秩序、和谐与自由放任}" 4664)
 
-(toc "toc" "      6.2.3 竞争性市场的运作" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.3" "\\subsection{竞争性市场的运作}" 5495)
+(toc "toc" "      6.2.3 竞争性市场的运作" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.3" "\\subsection{竞争性市场的运作}" 5496)
 
-(toc "toc" "      6.2.4 资本与资本家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.4" "\\subsection{资本与资本家}" 6373)
+(toc "toc" "      6.2.4 资本与资本家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.4" "\\subsection{资本与资本家}" 6374)
 
-(toc "toc" "      6.2.5 斯密对政策的影响" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.5" "\\subsection{斯密对政策的影响}" 6798)
+(toc "toc" "      6.2.5 斯密对政策的影响" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.2.5" "\\subsection{斯密对政策的影响}" 6799)
 
-(toc "toc" "    6.3 国民财富的性质与原因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.3" "\\section{国民财富的性质与原因}" 6925)
+(toc "toc" "    6.3 国民财富的性质与原因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.3" "\\section{国民财富的性质与原因}" 6926)
 
-(toc "toc" "      6.3.1 国民财富的原因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.3.1" "\\subsection{国民财富的原因}" 7927)
+(toc "toc" "      6.3.1 国民财富的原因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.3.1" "\\subsection{国民财富的原因}" 7928)
 
-(toc "toc" "      6.3.2 对国民财富原因的总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.3.2" "\\subsection{对国民财富原因的总结}" 8926)
+(toc "toc" "      6.3.2 对国民财富原因的总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.3.2" "\\subsection{对国民财富原因的总结}" 8927)
 
 ("fig:simi" "f" "一国财富的决定因素 " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil)
 
-(toc "toc" "    6.4 国际贸易" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.4" "\\section{国际贸易}" 9182)
+(toc "toc" "    6.4 国际贸易" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.4" "\\section{国际贸易}" 9201)
 
-(toc "toc" "    6.5 价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.5" "\\section{价值理论}" 9785)
+(toc "toc" "    6.5 价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.5" "\\section{价值理论}" 9804)
 
-(toc "toc" "      6.5.1 相对价格" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.1" "\\subsection{相对价格}" 10266)
+(toc "toc" "      6.5.1 相对价格" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.1" "\\subsection{相对价格}" 10285)
 
-(toc "toc" "      6.5.2 价值的含义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.2" "\\subsection{价值的含义}" 11138)
+(toc "toc" "      6.5.2 价值的含义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.2" "\\subsection{价值的含义}" 11157)
 
-(toc "toc" "      6.5.3 斯密关于相对价格" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.3" "\\subsection{斯密关于相对价格}" 11846)
+(toc "toc" "      6.5.3 斯密关于相对价格" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.5.3" "\\subsection{斯密关于相对价格}" 11865)
 
-(toc "toc" "    6.6 分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.6" "\\section{分配理论}" 13139)
+(toc "toc" "    6.6 分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.6" "\\section{分配理论}" 13158)
 
-(toc "toc" "      6.6.1 工资" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.1" "\\subsection{工资}" 13399)
+(toc "toc" "      6.6.1 工资" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.1" "\\subsection{工资}" 13418)
 
-(toc "toc" "      6.6.2 工资基金学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.2" "\\subsection{工资基金学说}" 13745)
+(toc "toc" "      6.6.2 工资基金学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.2" "\\subsection{工资基金学说}" 13764)
 
-(toc "toc" "      6.6.3 利润" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.3" "\\subsection{利润}" 13961)
+(toc "toc" "      6.6.3 利润" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.3" "\\subsection{利润}" 13980)
 
-(toc "toc" "      6.6.4 地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.4" "\\subsection{地租}" 14257)
+(toc "toc" "      6.6.4 地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.4" "\\subsection{地租}" 14276)
 
-(toc "toc" "      6.6.5 随着时间变化的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.5" "\\subsection{随着时间变化的利润率}" 14352)
+(toc "toc" "      6.6.5 随着时间变化的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.5" "\\subsection{随着时间变化的利润率}" 14371)
 
-(toc "toc" "      6.6.6 福利与价格总水平" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.6" "\\subsection{福利与价格总水平}" 14688)
+(toc "toc" "      6.6.6 福利与价格总水平" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "6.6.6" "\\subsection{福利与价格总水平}" 14707)
 
-(toc "toc" "    6.7 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.7" "\\section{总结}" 16352)
+(toc "toc" "    6.7 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "6.7" "\\section{总结}" 16371)
 
-(toc "toc" "  7 李嘉图与马尔萨斯" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 1 "7" "\\chapter{李嘉图与马尔萨斯}" 16729)
+(toc "toc" "  7 李嘉图与马尔萨斯" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 1 "7" "\\chapter{李嘉图与马尔萨斯}" 16748)
 
-(toc "toc" "    7.1 大卫·李嘉图——一个理论家的理论家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.1" "\\section{大卫·李嘉图——一个理论家的理论家}" 16779)
+(toc "toc" "    7.1 大卫·李嘉图——一个理论家的理论家" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.1" "\\section{大卫·李嘉图——一个理论家的理论家}" 16798)
 
-(toc "toc" "      7.1.1 斯密《国富论》与李嘉图《原理》之间的时期" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.1.1" "\\subsection{斯密《国富论》与李嘉图《原理》之间的时期}" 16882)
+(toc "toc" "      7.1.1 斯密《国富论》与李嘉图《原理》之间的时期" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.1.1" "\\subsection{斯密《国富论》与李嘉图《原理》之间的时期}" 16901)
 
-(toc "toc" "    7.2 马尔萨斯的人口学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.2" "\\section{马尔萨斯的人口学说}" 17252)
+(toc "toc" "    7.2 马尔萨斯的人口学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.2" "\\section{马尔萨斯的人口学说}" 17271)
 
-(toc "toc" "      7.2.1 对时代问题进行思考性回应的人口理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.1" "\\subsection{对时代问题进行思考性回应的人口理论}" 17360)
+(toc "toc" "      7.2.1 对时代问题进行思考性回应的人口理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.1" "\\subsection{对时代问题进行思考性回应的人口理论}" 17379)
 
-(toc "toc" "      7.2.2 人口论题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.2" "\\subsection{人口论题}" 17764)
+(toc "toc" "      7.2.2 人口论题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.2" "\\subsection{人口论题}" 17783)
 
-(toc "toc" "      7.2.3 关于人口论题的争论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.3" "\\subsection{关于人口论题的争论}" 18151)
+(toc "toc" "      7.2.3 关于人口论题的争论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.2.3" "\\subsection{关于人口论题的争论}" 18170)
 
-(toc "toc" "    7.3 李嘉图：方法、政策、范围" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.3" "\\section{李嘉图：方法、政策、范围}" 18975)
+(toc "toc" "    7.3 李嘉图：方法、政策、范围" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.3" "\\section{李嘉图：方法、政策、范围}" 18994)
 
-(toc "toc" "      7.3.1 李嘉图的方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.1" "\\subsection{李嘉图的方法}" 19063)
+(toc "toc" "      7.3.1 李嘉图的方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.1" "\\subsection{李嘉图的方法}" 19082)
 
-(toc "toc" "      7.3.2 李嘉图与经济政策" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.2" "\\subsection{李嘉图与经济政策}" 19335)
+(toc "toc" "      7.3.2 李嘉图与经济政策" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.2" "\\subsection{李嘉图与经济政策}" 19354)
 
-(toc "toc" "      7.3.3 李嘉图思想所界定的经济学范围" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.3" "\\subsection{李嘉图思想所界定的经济学范围}" 19782)
+(toc "toc" "      7.3.3 李嘉图思想所界定的经济学范围" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.3.3" "\\subsection{李嘉图思想所界定的经济学范围}" 19801)
 
-(toc "toc" "    7.4 李嘉图的模型" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.4" "\\section{李嘉图的模型}" 20335)
+(toc "toc" "    7.4 李嘉图的模型" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.4" "\\section{李嘉图的模型}" 20354)
 
-(toc "toc" "      7.4.1 时代难题：《谷物法》" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.4.1" "\\subsection{时代难题：《谷物法》}" 21105)
+(toc "toc" "      7.4.1 时代难题：《谷物法》" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.4.1" "\\subsection{时代难题：《谷物法》}" 21124)
 
-(toc "toc" "      7.4.2 分析工具与假设" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.4.2" "\\subsection{分析工具与假设}" 21351)
+(toc "toc" "      7.4.2 分析工具与假设" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.4.2" "\\subsection{分析工具与假设}" 21370)
 
-(toc "toc" "    7.5 李嘉图的地租理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.5" "\\section{李嘉图的地租理论}" 22176)
+(toc "toc" "    7.5 李嘉图的地租理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.5" "\\section{李嘉图的地租理论}" 22195)
 
-(toc "toc" "      7.5.1 收益递减" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.1" "\\subsection{收益递减}" 22196)
+(toc "toc" "      7.5.1 收益递减" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.1" "\\subsection{收益递减}" 22215)
 
-(toc "toc" "      7.5.2 从产品一方看地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.2" "\\subsection{从产品一方看地租}" 22215)
+(toc "toc" "      7.5.2 从产品一方看地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.2" "\\subsection{从产品一方看地租}" 22234)
 
 ("tab:lijiatu" "t" "集约边际与粗放边际（用蒲式耳计算的边际产品）" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil)
 
-(toc "toc" "      7.5.3 从成本一方看地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.3" "\\subsection{从成本一方看地租}" 23045)
+(toc "toc" "      7.5.3 从成本一方看地租" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.3" "\\subsection{从成本一方看地租}" 23064)
 
-(toc "toc" "      7.5.4 对地租概念更一般的看法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.4" "\\subsection{对地租概念更一般的看法}" 24097)
+(toc "toc" "      7.5.4 对地租概念更一般的看法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.4" "\\subsection{对地租概念更一般的看法}" 24116)
 
-(toc "toc" "      7.5.5 李嘉图的价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.5" "\\subsection{李嘉图的价值理论}" 24388)
+(toc "toc" "      7.5.5 李嘉图的价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.5" "\\subsection{李嘉图的价值理论}" 24407)
 
-(toc "toc" "      7.5.6 李嘉图的劳动成本价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.6" "\\subsection{李嘉图的劳动成本价值理论}" 24949)
+(toc "toc" "      7.5.6 李嘉图的劳动成本价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.6" "\\subsection{李嘉图的劳动成本价值理论}" 24968)
 
-(toc "toc" "      7.5.7 劳动成本价值理论的难点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.7" "\\subsection{劳动成本价值理论的难点}" 26437)
+(toc "toc" "      7.5.7 劳动成本价值理论的难点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.7" "\\subsection{劳动成本价值理论的难点}" 26456)
 
-(toc "toc" "      7.5.8 李嘉图主张劳动价值理论吗" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.8" "\\subsection{李嘉图主张劳动价值理论吗}" 28019)
+(toc "toc" "      7.5.8 李嘉图主张劳动价值理论吗" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.8" "\\subsection{李嘉图主张劳动价值理论吗}" 28036)
 
-(toc "toc" "      7.5.9 李嘉图价值理论总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.9" "\\subsection{李嘉图价值理论总结}" 28263)
+(toc "toc" "      7.5.9 李嘉图价值理论总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.5.9" "\\subsection{李嘉图价值理论总结}" 28280)
 
-(toc "toc" "    7.6 李嘉图的分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.6" "\\section{李嘉图的分配理论}" 28570)
+(toc "toc" "    7.6 李嘉图的分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.6" "\\section{李嘉图的分配理论}" 28587)
 
-(toc "toc" "      7.6.1 分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.1" "\\subsection{分配理论}" 28717)
+(toc "toc" "      7.6.1 分配理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.1" "\\subsection{分配理论}" 28734)
 
 ("fig:lijiatu" "f" "静止状态 " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil)
 
-(toc "toc" "      7.6.2 不同时期的收入分配" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.2" "\\subsection{不同时期的收入分配}" 29252)
+(toc "toc" "      7.6.2 不同时期的收入分配" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.2" "\\subsection{不同时期的收入分配}" 29269)
 
-(toc "toc" "      7.6.3 回到《谷物法》" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.3" "\\subsection{回到《谷物法》}" 30197)
+(toc "toc" "      7.6.3 回到《谷物法》" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.6.3" "\\subsection{回到《谷物法》}" 30214)
 
-(toc "toc" "    7.7 比较优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.7" "\\section{比较优势}" 30416)
+(toc "toc" "    7.7 比较优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.7" "\\section{比较优势}" 30433)
 
-(toc "toc" "      7.7.1 绝对优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.1" "\\subsection{绝对优势}" 30602)
+(toc "toc" "      7.7.1 绝对优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.1" "\\subsection{绝对优势}" 30619)
 
-(toc "toc" "      7.7.2 比较优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.2" "\\subsection{比较优势}" 30649)
+(toc "toc" "      7.7.2 比较优势" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.2" "\\subsection{比较优势}" 30666)
 
 ("tab:bijiaoyoushi" "t" "每单位劳动的产量" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil)
 
 ("tab:机会成本" "t" "机会成本" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil)
 
-(toc "toc" "      7.7.3 李嘉图、斯密以及贸易基础" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.3" "\\subsection{李嘉图、斯密以及贸易基础}" 32321)
+(toc "toc" "      7.7.3 李嘉图、斯密以及贸易基础" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.7.3" "\\subsection{李嘉图、斯密以及贸易基础}" 32338)
 
-(toc "toc" "    7.8 资本主义经济体的稳定与增长" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.8" "\\section{资本主义经济体的稳定与增长}" 33050)
+(toc "toc" "    7.8 资本主义经济体的稳定与增长" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.8" "\\section{资本主义经济体的稳定与增长}" 33067)
 
-(toc "toc" "      7.8.1 重商主义者的总需求观点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.1" "\\subsection{重商主义者的总需求观点}" 33316)
+(toc "toc" "      7.8.1 重商主义者的总需求观点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.1" "\\subsection{重商主义者的总需求观点}" 33333)
 
-(toc "toc" "      7.8.2 斯密的总需求观点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.2" "\\subsection{斯密的总需求观点}" 33486)
+(toc "toc" "      7.8.2 斯密的总需求观点" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.2" "\\subsection{斯密的总需求观点}" 33503)
 
-(toc "toc" "      7.8.3 马尔萨斯的消费不足主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.3" "\\subsection{马尔萨斯的消费不足主义}" 33679)
+(toc "toc" "      7.8.3 马尔萨斯的消费不足主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.3" "\\subsection{马尔萨斯的消费不足主义}" 33696)
 
-(toc "toc" "      7.8.4 萨伊定律" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.4" "\\subsection{萨伊定律}" 34664)
+(toc "toc" "      7.8.4 萨伊定律" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.4" "\\subsection{萨伊定律}" 34681)
 
-(toc "toc" "      7.8.5 关于金银的争论、亨利·桑顿以及李嘉图的货币理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.5" "\\subsection{关于金银的争论、亨利·桑顿以及李嘉图的货币理论}" 35581)
+(toc "toc" "      7.8.5 关于金银的争论、亨利·桑顿以及李嘉图的货币理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.5" "\\subsection{关于金银的争论、亨利·桑顿以及李嘉图的货币理论}" 35598)
 
-(toc "toc" "      7.8.6 技术性失业" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.6" "\\subsection{技术性失业}" 36274)
+(toc "toc" "      7.8.6 技术性失业" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.6" "\\subsection{技术性失业}" 36291)
 
-(toc "toc" "      7.8.7 凯恩斯伦马尔萨斯与李嘉图" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.7" "\\subsection{凯恩斯伦马尔萨斯与李嘉图}" 36531)
+(toc "toc" "      7.8.7 凯恩斯伦马尔萨斯与李嘉图" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 3 "7.8.7" "\\subsection{凯恩斯伦马尔萨斯与李嘉图}" 36548)
 
-(toc "toc" "    7.9 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.9" "\\section{总结}" 37642)
+(toc "toc" "    7.9 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex" nil 2 "7.9" "\\section{总结}" 37659)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main2.tex")
 
@@ -295,47 +295,45 @@
 
 (toc "toc" "  8 约翰·斯图亚特·穆勒与古典经济学的衰落" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 1 "8" "\\chapter{约翰·斯图亚特·穆勒与古典经济学的衰落}" 1)
 
-(toc "toc" "  9  " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 1 "9" "\\chapter{}" 31)
+("cha:mill" "s" "穆勒是一位天才的与众不同的思想家，对经济学、政治学和哲学都作出了重大贡献。他巨大 的思想力，是通过他父亲詹姆斯·穆勒的高广度和强度的天才精英教育而实现的……其心理 代价是穆勒二十岁时表现出来的精神抑郁" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil)
 
-("cha:ss" "s" nil "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil "")
+(toc "toc" "    8.1 李嘉图之后经济学的发展" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.1" "\\section{李嘉图之后经济学的发展}" 1186)
 
-(toc "toc" "    8.1 李嘉图之后经济学的发展" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.1" "\\section{李嘉图之后经济学的发展}" 1168)
+(toc "toc" "      8.1.1 对古典经济学的早期批判" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.1" "\\subsection{对古典经济学的早期批判}" 1209)
 
-(toc "toc" "      8.1.1 对古典经济学的早期批判" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.1" "\\subsection{对古典经济学的早期批判}" 1191)
+(toc "toc" "      8.1.2 经济学的范围与方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.2" "\\subsection{经济学的范围与方法}" 1444)
 
-(toc "toc" "      8.1.2 经济学的范围与方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.2" "\\subsection{经济学的范围与方法}" 1426)
+(toc "toc" "      8.1.3 马尔萨斯的人口理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.3" "\\subsection{马尔萨斯的人口理论}" 2495)
 
-(toc "toc" "      8.1.3 马尔萨斯的人口理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.3" "\\subsection{马尔萨斯的人口理论}" 2477)
+(toc "toc" "      8.1.4 工资基金学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.4" "\\subsection{工资基金学说}" 2611)
 
-(toc "toc" "      8.1.4 工资基金学说" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.4" "\\subsection{工资基金学说}" 2593)
+(toc "toc" "      8.1.5 历史上的收益递减" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.5" "\\subsection{历史上的收益递减}" 3044)
 
-(toc "toc" "      8.1.5 历史上的收益递减" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.5" "\\subsection{历史上的收益递减}" 3026)
+(toc "toc" "      8.1.6 未采取的道路：查尔斯·巴比奇与收益递增" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.6" "\\subsection{未采取的道路：查尔斯·巴比奇与收益递增}" 3381)
 
-(toc "toc" "      8.1.6 未采取的道路：查尔斯·巴比奇与收益递增" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.6" "\\subsection{未采取的道路：查尔斯·巴比奇与收益递增}" 3363)
+(toc "toc" "      8.1.7 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.7" "\\subsection{下降的利润率}" 3561)
 
-(toc "toc" "      8.1.7 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.7" "\\subsection{下降的利润率}" 3543)
+(toc "toc" "      8.1.8 利润（利息）理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.8" "\\subsection{利润（利息）理论}" 3841)
 
-(toc "toc" "      8.1.8 利润（利息）理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.1.8" "\\subsection{利润（利息）理论}" 3823)
+(toc "toc" "    8.2 穆勒思想的背景" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.2" "\\section{穆勒思想的背景}" 4750)
 
-(toc "toc" "    8.2 穆勒思想的背景" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.2" "\\section{穆勒思想的背景}" 4732)
+(toc "toc" "      8.2.1 穆勒的经济学方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.1" "\\subsection{穆勒的经济学方法}" 4769)
 
-(toc "toc" "      8.2.1 穆勒的经济学方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.1" "\\subsection{穆勒的经济学方法}" 4751)
+(toc "toc" "      8.2.2 穆勒的折衷主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.2" "\\subsection{穆勒的折衷主义}" 5936)
 
-(toc "toc" "      8.2.2 穆勒的折衷主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.2" "\\subsection{穆勒的折衷主义}" 5918)
+(toc "toc" "      8.2.3 杰里米·边沁的影响" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.3" "\\subsection{杰里米·边沁的影响}" 6007)
 
-(toc "toc" "      8.2.3 杰里米·边沁的影响" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.3" "\\subsection{杰里米·边沁的影响}" 5989)
+(toc "toc" "      8.2.4 自由放任、干预抑或社会主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.4" "\\subsection{自由放任、干预抑或社会主义}" 6591)
 
-(toc "toc" "      8.2.4 自由放任、干预抑或社会主义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.4" "\\subsection{自由放任、干预抑或社会主义}" 6573)
+(toc "toc" "      8.2.5 一种不同的静止状态" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.5" "\\subsection{一种不同的静止状态}" 7737)
 
-(toc "toc" "      8.2.5 一种不同的静止状态" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.5" "\\subsection{一种不同的静止状态}" 7719)
+(toc "toc" "      8.2.6 穆勒的社会哲学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.6" "\\subsection{穆勒的社会哲学}" 8287)
 
-(toc "toc" "      8.2.6 穆勒的社会哲学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.2.6" "\\subsection{穆勒的社会哲学}" 8269)
+(toc "toc" "    8.3 穆勒的经济学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.3" "\\section{穆勒的经济学}" 8309)
 
-(toc "toc" "    8.3 穆勒的经济学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.3" "\\section{穆勒的经济学}" 8291)
+(toc "toc" "      8.3.1 理论的作用" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.1" "\\subsection{理论的作用}" 8327)
 
-(toc "toc" "      8.3.1 理论的作用" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.1" "\\subsection{理论的作用}" 8309)
-
-(toc "toc" "      8.3.2 价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.2" "\\subsection{价值理论}" 9877)
+(toc "toc" "      8.3.2 价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.2" "\\subsection{价值理论}" 9895)
 
 ("fig:mulea" "f" "供给完全无弹性" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil)
 
@@ -345,16 +343,16 @@
 
 ("fig:mulema" "f" "用马歇尔形式呈现穆勒的长期价格理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil)
 
-(toc "toc" "      8.3.3 国际贸易理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.3" "\\subsection{国际贸易理论}" 12744)
+(toc "toc" "      8.3.3 国际贸易理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.3" "\\subsection{国际贸易理论}" 12762)
 
 (toc "toc" "      8.3.4 穆勒的货币理论与超额供给：萨伊定律的重新思 考" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.4" "\\subsection[穆勒的货币理论与超额供给]{穆勒的货币理论与超额供给：萨伊定律的重新思
-  考}" 13701)
+  考}" 13719)
 
-(toc "toc" "      8.3.5 通货流派与银行流派" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.5" "\\subsection{通货流派与银行流派}" 14989)
+(toc "toc" "      8.3.5 通货流派与银行流派" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.5" "\\subsection{通货流派与银行流派}" 15007)
 
-(toc "toc" "      8.3.6 工资基金：穆勒的放弃" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.6" "\\subsection{工资基金：穆勒的放弃}" 15409)
+(toc "toc" "      8.3.6 工资基金：穆勒的放弃" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 3 "8.3.6" "\\subsection{工资基金：穆勒的放弃}" 15427)
 
-(toc "toc" "    8.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.4" "\\section{总结}" 16238)
+(toc "toc" "    8.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex" nil 2 "8.4" "\\section{总结}" 16256)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main3.tex")
 
@@ -380,29 +378,29 @@
 
 (toc "toc" "      9.2.3 马克思的劳动价值理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.2.3" "\\subsection{马克思的劳动价值理论}" 6920)
 
-(toc "toc" "      9.2.4 剩余价值与剥削" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.2.4" "\\subsection{剩余价值与剥削}" 8361)
+(toc "toc" "      9.2.4 剩余价值与剥削" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.2.4" "\\subsection{剩余价值与剥削}" 8359)
 
-(toc "toc" "    9.3 马克思对资本主义的分析" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 2 "9.3" "\\section{马克思对资本主义的分析}" 8981)
+(toc "toc" "    9.3 马克思对资本主义的分析" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 2 "9.3" "\\section{马克思对资本主义的分析}" 8979)
 
-(toc "toc" "      9.3.1 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.1" "\\subsection{下降的利润率}" 11926)
+(toc "toc" "      9.3.1 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.1" "\\subsection{下降的利润率}" 11924)
 
 ("fig：marxlirun" "f" "利润率的下降 " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil)
 
-(toc "toc" "      9.3.2 经济危机的起因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.2" "\\subsection{经济危机的起因}" 14580)
+(toc "toc" "      9.3.2 经济危机的起因" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.2" "\\subsection{经济危机的起因}" 14578)
 
-(toc "toc" "      9.3.3 周期循环的波动" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.3" "\\subsection{周期循环的波动}" 16172)
+(toc "toc" "      9.3.3 周期循环的波动" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.3" "\\subsection{周期循环的波动}" 16170)
 
-(toc "toc" "      9.3.4 比例失调危机" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.4" "\\subsection{比例失调危机}" 16693)
+(toc "toc" "      9.3.4 比例失调危机" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.4" "\\subsection{比例失调危机}" 16691)
 
-(toc "toc" "      9.3.5 利润率下降与经济危机" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.5" "\\subsection{利润率下降与经济危机}" 17479)
+(toc "toc" "      9.3.5 利润率下降与经济危机" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.5" "\\subsection{利润率下降与经济危机}" 17477)
 
-(toc "toc" "      9.3.6 经济危机：一个总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.6" "\\subsection{经济危机：一个总结}" 18040)
+(toc "toc" "      9.3.6 经济危机：一个总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.6" "\\subsection{经济危机：一个总结}" 18038)
 
-(toc "toc" "      9.3.7 资本积累与资本集中" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.7" "\\subsection{资本积累与资本集中}" 18658)
+(toc "toc" "      9.3.7 资本积累与资本集中" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.7" "\\subsection{资本积累与资本集中}" 18656)
 
-(toc "toc" "      9.3.8 无产阶级贫困的加剧" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.8" "\\subsection{无产阶级贫困的加剧}" 19874)
+(toc "toc" "      9.3.8 无产阶级贫困的加剧" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 3 "9.3.8" "\\subsection{无产阶级贫困的加剧}" 19872)
 
-(toc "toc" "    9.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 2 "9.4" "\\section{总结}" 20396)
+(toc "toc" "    9.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex" nil 2 "9.4" "\\section{总结}" 20394)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main4.tex")
 
@@ -414,23 +412,127 @@
 
 (toc "toc" "    10.1 历史链接" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 2 "10.1" "\\section{历史链接}" 2158)
 
-(toc "toc" "      10.1.1 边际分析的先驱者" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.1.1" "\\subsection{边际分析的先驱者}" 3118)
+(toc "toc" "      10.1.1 边际分析的先驱者" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.1.1" "\\subsection{边际分析的先驱者}" 3119)
 
-(toc "toc" "    10.2 杰文斯、门格尔以及瓦尔拉斯" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 2 "10.2" "\\section{杰文斯、门格尔以及瓦尔拉斯}" 4279)
+(toc "toc" "    10.2 杰文斯、门格尔以及瓦尔拉斯" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 2 "10.2" "\\section{杰文斯、门格尔以及瓦尔拉斯}" 4291)
 
-(toc "toc" "      10.2.1 这是理论上的一次革命吗" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.1" "\\subsection{这是理论上的一次革命吗}" 4681)
+(toc "toc" "      10.2.1 这是理论上的一次革命吗" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.1" "\\subsection{这是理论上的一次革命吗}" 4693)
 
-(toc "toc" "      10.2.2 古典价值理论的不充分" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.2" "\\subsection{古典价值理论的不充分}" 5501)
+(toc "toc" "      10.2.2 古典价值理论的不充分" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.2" "\\subsection{古典价值理论的不充分}" 5513)
 
 ("tab:mengeer" "t" "门格尔的表格（各商品种类的边际效用）" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
 
-(toc "toc" "      10.2.3 什么是效用" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.3" "\\subsection{什么是效用}" 7605)
+(toc "toc" "      10.2.3 什么是效用" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.3" "\\subsection{什么是效用}" 7664)
 
-(toc "toc" "      10.2.4 效用的比较" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.4" "\\subsection{效用的比较}" 8817)
+(toc "toc" "      10.2.4 效用的比较" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.4" "\\subsection{效用的比较}" 8876)
 
-("fig：hood1" "f" "罗宾·胡德效应 " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
+("fig:hood1" "f" "罗宾·胡德效应 " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
+
+("fig:hood2" "f" "相反的罗宾·胡德效应" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
+
+("fig:hood" "f" "穷人与富人收入的边际效用比较" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
+
+(toc "toc" "      10.2.5 效用函数" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.5" "\\subsection{效用函数}" 11451)
+
+(toc "toc" "      10.2.6 效用、需求以及交换" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.6" "\\subsection{效用、需求以及交换}" 11850)
+
+(toc "toc" "      10.2.7 生产要素的价值" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.7" "\\subsection{生产要素的价值}" 12789)
+
+(toc "toc" "      10.2.8 对杰文斯和门格尔的评价" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.8" "\\subsection{对杰文斯和门格尔的评价}" 13285)
+
+(toc "toc" "      10.2.9 古典价值理论与新兴的新古典价值的比较" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.2.9" "\\subsection{古典价值理论与新兴的新古典价值的比较}" 15003)
+
+(toc "toc" "    10.3 第二代奥地利学者" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 2 "10.3" "\\section{第二代奥地利学者}" 16263)
+
+(toc "toc" "      10.3.1 弗里德里希·冯·维色" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.3.1" "\\subsection{弗里德里希·冯·维色}" 16283)
+
+("fig:weise" "f" "价值因果关系" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil)
+
+(toc "toc" "      10.3.2 欧根·冯·庞巴维克" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.3.2" "\\subsection{欧根·冯·庞巴维克}" 17628)
+
+(toc "toc" "      10.3.3 走哪一条路——变化中的经济学范围与方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.3.3" "\\subsection{走哪一条路——变化中的经济学范围与方法}" 18150)
+
+(toc "toc" "      10.3.4 杰文斯、门格尔以及瓦尔拉斯对后来经济学家的影响" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 3 "10.3.4" "\\subsection{杰文斯、门格尔以及瓦尔拉斯对后来经济学家的影响}" 18863)
+
+(toc "toc" "    10.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex" nil 2 "10.4" "\\section{总结}" 19593)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main5.tex")
+
+(bof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex")
+
+(toc "toc" "  11 向新古典经济学的过渡：扩展的边际分析" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 1 "11" "\\chapter{向新古典经济学的过渡：扩展的边际分析}" 1)
+
+(toc "toc" "    11.1 扩展的边际分析：第二代" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 2 "11.1" "\\section{扩展的边际分析：第二代}" 512)
+
+(toc "toc" "    11.2 边际生产力理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 2 "11.2" "\\section{边际生产力理论}" 1489)
+
+(toc "toc" "      11.2.1 收益递减原理" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.1" "\\subsection{收益递减原理}" 2169)
+
+("tab:productfunc" "t" "生产函数" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+("劳动的数量" "f" "NO MATCH FOR CONTEXT REGEXP" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+("fig:productfunc" "f" "劳动的总产品、平均产品、边际产品" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+(toc "toc" "      11.2.2 新的与旧的" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.2" "\\subsection{新的与旧的}" 5155)
+
+("fig:richardoMPa" "f" "土地数量不变，劳动数量可变" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+("fig:richardoMPb" "f" "劳动数量不变，土地数量可变" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+("fig:richardoMP" "f" "李嘉图地租理论的劳动与土地边际生产力模型" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+(toc "toc" "      11.2.3 产品用尽" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.3" "\\subsection{产品用尽}" 8877)
+
+(toc "toc" "      11.2.4 维克赛尔论产品用尽" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.4" "\\subsection{维克赛尔论产品用尽}" 12240)
+
+(toc "toc" "      11.2.5 边际生产力理论的道德含义" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.5" "\\subsection{边际生产力理论的道德含义}" 12982)
+
+(toc "toc" "      11.2.6 作为一种就业理论的边际生产力理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.6" "\\subsection{作为一种就业理论的边际生产力理论}" 14270)
+
+("fig:mshiye" "f" "非均衡的劳动市场" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil)
+
+(toc "toc" "      11.2.7 受到批判的边际生产力理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.2.7" "\\subsection{受到批判的边际生产力理论}" 17216)
+
+(toc "toc" "    11.3 利润与利息" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 2 "11.3" "\\section{利润与利息}" 18019)
+
+(toc "toc" "      11.3.1 利润理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.3.1" "\\subsection{利润理论}" 18495)
+
+(toc "toc" "      11.3.2 利息难题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.3.2" "\\subsection{利息难题}" 21273)
+
+(toc "toc" "      11.3.3 庞巴维克的利息理论" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.3.3" "\\subsection{庞巴维克的利息理论}" 22737)
+
+(toc "toc" "      11.3.4 费雪论利息" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.3.4" "\\subsection{费雪论利息}" 23898)
+
+(toc "toc" "      11.3.5 利息难题一个总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 3 "11.3.5" "\\subsection{利息难题一个总结}" 25768)
+
+(toc "toc" "    11.4 总结" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex" nil 2 "11.4" "\\section{总结}" 26194)
+
+(eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main6.tex")
+
+(bof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex")
+
+(toc "toc" "  12 阿尔弗雷德·马歇尔与新古典经济学" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 1 "12" "\\chapter{阿尔弗雷德·马歇尔与新古典经济学}" 1)
+
+(toc "toc" "     * 马歇尔作为新古典主义之父的宣言" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 2 " *" "\\section*{马歇尔作为新古典主义之父的宣言}" 198)
+
+(toc "toc" "    12.1 经济学的范围" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 2 "12.1" "\\section{经济学的范围}" 1556)
+
+(toc "toc" "      12.1.1 马歇尔论方法" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 3 "12.1.1" "\\subsection{马歇尔论方法}" 4216)
+
+(toc "toc" "    12.2 理解复杂性：马歇尔方法的实施" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 2 "12.2" "\\section{理解复杂性：马歇尔方法的实施}" 6621)
+
+(toc "toc" "      12.2.1 时间问题" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 3 "12.2.1" "\\subsection{时间问题}" 7622)
+
+(toc "toc" "      12.2.2 马歇尔的迷惘" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 3 "12.2.2" "\\subsection{马歇尔的迷惘}" 8676)
+
+(toc "toc" "      12.2.3 马歇尔论需求" "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil 3 "12.2.3" "\\subsection{马歇尔论需求}" 10367)
+
+("eq:1" "e" " " "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil)
+
+("eq:2" "e" nil "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex" nil "")
+
+(eof "/home/sd44/xueshu/tex笔记系统/data/经济思想史/main7.tex")
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex")
 
@@ -438,13 +540,13 @@
 
 ("HarveyVol1" "s" "本文借助于《跟大卫哈维读《资本论》第一卷》一书，对《资本论》第一卷的一些概念本身 和它们彼此之间的联系进行了简单概括和整理。 \\textbf{Note标记，不是原文自带，而是对笔者个人来说，Note段" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil)
 
-(toc "toc" "  11 天才资本家海大富的《资本论》第一卷实践记" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "11" "\\chapter{天才资本家海大富的《资本论》第一卷实践记}" 177)
+(toc "toc" "  13 天才资本家海大富的《资本论》第一卷实践记" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "13" "\\chapter{天才资本家海大富的《资本论》第一卷实践记}" 177)
 
 ("cha:Capital" "s" "我们首先假设在18世纪末，一个名为海大富的英国人作为“可敬的东印度公司”的一位员工， 被派往印度，收取印度人民田赋。靠着高的离谱的田赋，肥了东印度公司，也肥了海大富， 还有就是饿死了很多印度人。 海大" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil)
 
-(toc "toc" "  12 大卫·哈维对资本论的解读笔记" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "12" "\\chapter{大卫·哈维对资本论的解读笔记}" 3504)
+(toc "toc" "  14 大卫·哈维对资本论的解读笔记" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "14" "\\chapter{大卫·哈维对资本论的解读笔记}" 3504)
 
-(toc "toc" "  13 经典原文" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "13" "\\chapter{经典原文}" 6515)
+(toc "toc" "  15 经典原文" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex" nil 1 "15" "\\chapter{经典原文}" 6515)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/1.tex")
 
@@ -454,31 +556,31 @@
 
 ("davidcapitalvol2" "s" "\\chapter{导言} 在《政治经济学批判大纲》中，马克思明确指出，资本只能作为价值和剩余价值\\textbf{生产和实现的统一}来理解。他是说，如果在市场上不能卖出劳动过程中生产的产品，在产品中包含" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil)
 
-(toc "toc" "  14 导言" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "14" "\\chapter{导言}" 54)
+(toc "toc" "  16 导言" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "16" "\\chapter{导言}" 54)
 
 ("ux5bfcux8a00" "s" "在《政治经济学批判大纲》中，马克思明确指出，资本只能作为价值和剩余价值\\textbf{生产和实现的统一}来理解。他是说，如果在市场上不能卖出劳动过程中生产的产品，在产品中包含的劳动创造的价值就不能实现" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil)
 
-(toc "toc" "  15 资本循环（第二卷 第1—3章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "15" "\\chapter{资本循环（第二卷 第1—3章）}" 7240)
+(toc "toc" "  17 资本循环（第二卷 第1—3章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "17" "\\chapter{资本循环（第二卷 第1—3章）}" 7240)
 
-(toc "toc" "  16 循环的三个公式和资本流动的连续性（第二卷 第4—6章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "16" "\\chapter{循环的三个公式和资本流动的连续性（第二卷 第4—6章）}" 12021)
+(toc "toc" "  18 循环的三个公式和资本流动的连续性（第二卷 第4—6章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex" nil 1 "18" "\\chapter{循环的三个公式和资本流动的连续性（第二卷 第4—6章）}" 12021)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-1.tex")
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex")
 
-(toc "toc" "  17 商人资本（第三卷 第16—20章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex" nil 1 "17" "\\chapter{商人资本（第三卷 第16—20章）}" 1)
+(toc "toc" "  19 商人资本（第三卷 第16—20章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex" nil 1 "19" "\\chapter{商人资本（第三卷 第16—20章）}" 1)
 
-(toc "toc" "  18 利息、信用和金融（第三卷 第21—26章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex" nil 1 "18" "\\chapter{利息、信用和金融（第三卷 第21—26章）}" 8852)
+(toc "toc" "  20 利息、信用和金融（第三卷 第21—26章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex" nil 1 "20" "\\chapter{利息、信用和金融（第三卷 第21—26章）}" 8852)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-2.tex")
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex")
 
-(toc "toc" "  19 马克思论信用制度（第三卷 第27—37章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil 1 "19" "\\chapter{马克思论信用制度（第三卷 第27—37章）}" 1)
+(toc "toc" "  21 马克思论信用制度（第三卷 第27—37章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil 1 "21" "\\chapter{马克思论信用制度（第三卷 第27—37章）}" 1)
 
 ("fig:david4" "f" "马克思的等级制货币体系" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil)
 
-(toc "toc" "  20 信用和银行系统的作用（第三卷 第27章开始）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil 1 "20" "\\chapter{信用和银行系统的作用（第三卷 第27章开始）}" 6862)
+(toc "toc" "  22 信用和银行系统的作用（第三卷 第27章开始）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil 1 "22" "\\chapter{信用和银行系统的作用（第三卷 第27章开始）}" 6862)
 
 ("fig:david5" "f" "生息资本的横向流通" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-3.tex" nil)
 
@@ -486,9 +588,9 @@
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex")
 
-(toc "toc" "  21 资本的时间与空间（第二卷 第12—14章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex" nil 1 "21" "\\chapter{资本的时间与空间（第二卷 第12—14章）}" 1)
+(toc "toc" "  23 资本的时间与空间（第二卷 第12—14章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex" nil 1 "23" "\\chapter{资本的时间与空间（第二卷 第12—14章）}" 1)
 
-(toc "toc" "  22 资本的再生产（第二卷 第18—20章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex" nil 1 "22" "\\chapter{资本的再生产（第二卷 第18—20章）}" 9554)
+(toc "toc" "  24 资本的再生产（第二卷 第18—20章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex" nil 1 "24" "\\chapter{资本的再生产（第二卷 第18—20章）}" 9554)
 
 ("chap:reproduct" "s" "在第二卷的第三篇中，马克思设想了一个分成两大部类的经济。第一部类为其他资本家生产 生产资料（原材料、半成品、机器和包括生产的建成环境在内的其他固定资本项目）。第二 部类生产供工人和资本家个人消费的消费" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-4.tex" nil)
 
@@ -496,9 +598,9 @@
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex")
 
-(toc "toc" "  23 固定资本问题和扩大再生产（第二卷 第20—21章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex" nil 1 "23" "\\chapter{固定资本问题和扩大再生产（第二卷 第20—21章）}" 1)
+(toc "toc" "  25 固定资本问题和扩大再生产（第二卷 第20—21章）" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex" nil 1 "25" "\\chapter{固定资本问题和扩大再生产（第二卷 第20—21章）}" 1)
 
-(toc "toc" "  24 反思" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex" nil 1 "24" "\\chapter{反思}" 6707)
+(toc "toc" "  26 反思" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex" nil 1 "26" "\\chapter{反思}" 6707)
 
 ("chap:fansi" "s" "那么，我们能从建立了《资本论》第一卷和第二卷联系的“生产和实现的矛盾统一体”中，得出什么结论呢？ 第二卷说明的是，资本循环的连续性不断地受到产生于实现过程中的限制和界限的威胁。这些界限不同于那些大多数" "/home/sd44/xueshu/tex笔记系统/data/跟大卫哈维读资本论/2-5.tex" nil)
 
@@ -512,241 +614,241 @@
 
 ("part:germany" "s" "\\chapter{恩格斯和马克思的遗产：1883-1895}  \\section{马克思的智力遗产} 自1867年《资本论》第一卷出版以后，马克思只把少量的时间用在剩余各卷的创作上，把更 多的时间放在" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "  25 恩格斯和马克思的遗产：1883-1895" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "25" "\\chapter{恩格斯和马克思的遗产：1883-1895}" 1726)
+(toc "toc" "  27 恩格斯和马克思的遗产：1883-1895" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "27" "\\chapter{恩格斯和马克思的遗产：1883-1895}" 1726)
 
 ("chap:engels" "s" "\\section{马克思的智力遗产} 自1867年《资本论》第一卷出版以后，马克思只把少量的时间用在剩余各卷的创作上，把更 多的时间放在他感兴趣的其他问题上（相关的讨论，参见以下第七章）。……即使考虑" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    25.1 马克思的智力遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "25.1" "\\section{马克思的智力遗产}" 1778)
+(toc "toc" "    27.1 马克思的智力遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.1" "\\section{马克思的智力遗产}" 1778)
 
-(toc "toc" "    25.2 作为编辑者和理论家的恩格斯" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "25.2" "\\section{作为编辑者和理论家的恩格斯}" 3184)
+(toc "toc" "    27.2 作为编辑者和理论家的恩格斯" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.2" "\\section{作为编辑者和理论家的恩格斯}" 3184)
 
-(toc "toc" "    25.3 《资本论》第三卷" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "25.3" "\\section{《资本论》第三卷}" 5320)
+(toc "toc" "    27.3 《资本论》第三卷" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.3" "\\section{《资本论》第三卷}" 5320)
 
-(toc "toc" "    25.4 对恩格斯贡献的评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "25.4" "\\section{对恩格斯贡献的评价}" 6912)
+(toc "toc" "    27.4 对恩格斯贡献的评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.4" "\\section{对恩格斯贡献的评价}" 6912)
 
-(toc "toc" "  26 恩格斯和价值理论“有奖征文竞赛”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "26" "\\chapter{恩格斯和价值理论“有奖征文竞赛”}" 7506)
+(toc "toc" "  28 恩格斯和价值理论“有奖征文竞赛”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "28" "\\chapter{恩格斯和价值理论“有奖征文竞赛”}" 7506)
 
 ("chap:jingsai" "s" "\\section{引子} 19世纪80年代初，马克思主义在德国社会民主党内的主导地位（尽管从来都不特别稳固）， 受到\\textbf{迈耶尔领导的强大的“洛贝尔图斯运动”}的攻击，这种运动对具有社会主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    26.1 引子" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "26.1" "\\section{引子}" 7555)
+(toc "toc" "    28.1 引子" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.1" "\\section{引子}" 7555)
 
-(toc "toc" "    26.2 竞赛的性质" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "26.2" "\\section{竞赛的性质}" 8769)
+(toc "toc" "    28.2 竞赛的性质" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.2" "\\section{竞赛的性质}" 8769)
 
-(toc "toc" "    26.3 第一回合：莱克西斯、施米特和斯蒂贝林" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "26.3" "\\section{第一回合：莱克西斯、施米特和斯蒂贝林}" 9890)
+(toc "toc" "    28.3 第一回合：莱克西斯、施米特和斯蒂贝林" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.3" "\\section{第一回合：莱克西斯、施米特和斯蒂贝林}" 9890)
 
-(toc "toc" "    26.4 第二回合：沃尔弗、洛里亚、弗里曼和莱尔" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "26.4" "\\section{第二回合：沃尔弗、洛里亚、弗里曼和莱尔}" 11999)
+(toc "toc" "    28.4 第二回合：沃尔弗、洛里亚、弗里曼和莱尔" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.4" "\\section{第二回合：沃尔弗、洛里亚、弗里曼和莱尔}" 11999)
 
 ("fig:wolfdata" "f" "沃尔弗的数字例子" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
 ("fig:laier" "f" "莱尔的等式" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    26.5 恩格斯的裁决" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "26.5" "\\section{恩格斯的裁决}" 14861)
+(toc "toc" "    28.5 恩格斯的裁决" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.5" "\\section{恩格斯的裁决}" 14861)
 
-(toc "toc" "  27 价值理论的第一次争论：1895-1914年" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "27" "\\chapter{价值理论的第一次争论：1895-1914年}" 15451)
+(toc "toc" "  29 价值理论的第一次争论：1895-1914年" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "29" "\\chapter{价值理论的第一次争论：1895-1914年}" 15451)
 
 ("chap:1stzhenglun" "s" "\\section{《资本论》第三卷} 在《资本论》第一卷中，马克思简要提及了自由竞争的存在给其价值理论带来的难题。在 《资本论》第三卷第二篇，他对这个难题作了详细阐释，并提出了自己的解决方法。劳动力 " "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    27.1 《资本论》第三卷" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.1" "\\section{《资本论》第三卷}" 15509)
+(toc "toc" "    29.1 《资本论》第三卷" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.1" "\\section{《资本论》第三卷}" 15509)
 
-(toc "toc" "    27.2 对《资本论》第三卷的早期反应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.2" "\\section{对《资本论》第三卷的早期反应}" 18189)
+(toc "toc" "    29.2 对《资本论》第三卷的早期反应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.2" "\\section{对《资本论》第三卷的早期反应}" 18189)
 
-(toc "toc" "    27.3 庞巴维克和希法亭" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.3" "\\section{庞巴维克和希法亭}" 21602)
+(toc "toc" "    29.3 庞巴维克和希法亭" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.3" "\\section{庞巴维克和希法亭}" 21602)
 
-(toc "toc" "    27.4 米尔普福特和德米特里耶夫" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.4" "\\section{米尔普福特和德米特里耶夫}" 26602)
+(toc "toc" "    29.4 米尔普福特和德米特里耶夫" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.4" "\\section{米尔普福特和德米特里耶夫}" 26602)
 
-(toc "toc" "    27.5 冯·博特凯维茨的解决方法" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "27.5" "\\section{冯·博特凯维茨的解决方法}" 30484)
+(toc "toc" "    29.5 冯·博特凯维茨的解决方法" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.5" "\\section{冯·博特凯维茨的解决方法}" 30484)
 
-(toc "toc" "  28 伯恩施坦，考茨基和修正主义论战" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "28" "\\chapter{伯恩施坦，考茨基和修正主义论战}" 33361)
+(toc "toc" "  30 伯恩施坦，考茨基和修正主义论战" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "30" "\\chapter{伯恩施坦，考茨基和修正主义论战}" 33361)
 
-(toc "toc" "    28.1 德国社会主义的兴起" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.1" "\\section{德国社会主义的兴起}" 33388)
+(toc "toc" "    30.1 德国社会主义的兴起" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.1" "\\section{德国社会主义的兴起}" 33388)
 
-(toc "toc" "    28.2 正统马克思主义和《爱尔福特纲领》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.2" "\\section{正统马克思主义和《爱尔福特纲领》}" 35331)
+(toc "toc" "    30.2 正统马克思主义和《爱尔福特纲领》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.2" "\\section{正统马克思主义和《爱尔福特纲领》}" 35331)
 
-(toc "toc" "    28.3 伯恩施坦对正统的挑战" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.3" "\\section{伯恩施坦对正统的挑战}" 37517)
+(toc "toc" "    30.3 伯恩施坦对正统的挑战" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.3" "\\section{伯恩施坦对正统的挑战}" 37517)
 
-(toc "toc" "    28.4 卢森堡和考茨基的回应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.4" "\\section{卢森堡和考茨基的回应}" 40790)
+(toc "toc" "    30.4 卢森堡和考茨基的回应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.4" "\\section{卢森堡和考茨基的回应}" 40790)
 
-(toc "toc" "    28.5 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "28.5" "\\section{评价}" 43608)
+(toc "toc" "    30.5 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.5" "\\section{评价}" 43608)
 
-(toc "toc" "  29 金融资本与帝国主义：考茨基和希法亭" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "29" "\\chapter{金融资本与帝国主义：考茨基和希法亭}" 45579)
+(toc "toc" "  31 金融资本与帝国主义：考茨基和希法亭" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "31" "\\chapter{金融资本与帝国主义：考茨基和希法亭}" 45579)
 
-(toc "toc" "    29.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.1" "\\section{引言}" 45608)
+(toc "toc" "    31.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.1" "\\section{引言}" 45608)
 
-(toc "toc" "    29.2 伯恩施坦和考茨基论帝国主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.2" "\\section{伯恩施坦和考茨基论帝国主义}" 46369)
+(toc "toc" "    31.2 伯恩施坦和考茨基论帝国主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.2" "\\section{伯恩施坦和考茨基论帝国主义}" 46369)
 
-(toc "toc" "    29.3 希法亭论金融资本" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.3" "\\section{希法亭论金融资本}" 47473)
+(toc "toc" "    31.3 希法亭论金融资本" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.3" "\\section{希法亭论金融资本}" 47473)
 
-(toc "toc" "    29.4 对希法亭的反应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "29.4" "\\section{对希法亭的反应}" 51758)
+(toc "toc" "    31.4 对希法亭的反应" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.4" "\\section{对希法亭的反应}" 51758)
 
-(toc "toc" "  30 资本积累、帝国主义与战争：卢森堡和鲍威尔" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "30" "\\chapter{资本积累、帝国主义与战争：卢森堡和鲍威尔}" 54210)
+(toc "toc" "  32 资本积累、帝国主义与战争：卢森堡和鲍威尔" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "32" "\\chapter{资本积累、帝国主义与战争：卢森堡和鲍威尔}" 54210)
 
-(toc "toc" "    30.1 罗莎·卢森堡和资本积累" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.1" "\\section{罗莎·卢森堡和资本积累}" 54242)
+(toc "toc" "    32.1 罗莎·卢森堡和资本积累" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.1" "\\section{罗莎·卢森堡和资本积累}" 54242)
 
 ("fig:rosha" "f" "NO MATCH FOR CONTEXT REGEXP" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    30.2 对卢森堡的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.2" "\\section{对卢森堡的批判}" 58044)
+(toc "toc" "    32.2 对卢森堡的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.2" "\\section{对卢森堡的批判}" 58044)
 
-(toc "toc" "    30.3 奥托·鲍威尔的积累模型" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.3" "\\section{奥托·鲍威尔的积累模型}" 60440)
+(toc "toc" "    32.3 奥托·鲍威尔的积累模型" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.3" "\\section{奥托·鲍威尔的积累模型}" 60440)
 
 ("fig:bauer1" "f" "NO MATCH FOR CONTEXT REGEXP" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
 ("fig:bauer2" "f" "NO MATCH FOR CONTEXT REGEXP" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "    30.4 卢森堡的《反批判》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.4" "\\section{卢森堡的《反批判》}" 65151)
+(toc "toc" "    32.4 卢森堡的《反批判》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.4" "\\section{卢森堡的《反批判》}" 65151)
 
-(toc "toc" "    30.5 考茨基对帝国主义的第二次思考" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "30.5" "\\section{考茨基对帝国主义的第二次思考}" 67026)
+(toc "toc" "    32.5 考茨基对帝国主义的第二次思考" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.5" "\\section{考茨基对帝国主义的第二次思考}" 67026)
 
 (toc "toc" "Part VII 俄国到1917年的贡献" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 0 "Part VII" "\\part{俄国到1917年的贡献}" 67974)
 
 ("part:russia" "s" "\\chapter{俄国马克思主义的遗产} \\section{引言} 马克思留给俄国的遗产与留给德国社会主义者的遗产迥然不同。尽管他们能够接触到的马克 思的著作在本质上是相同的，但在\\textbf{俄国" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil)
 
-(toc "toc" "  31 俄国马克思主义的遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "31" "\\chapter{俄国马克思主义的遗产}" 68014)
+(toc "toc" "  33 俄国马克思主义的遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "33" "\\chapter{俄国马克思主义的遗产}" 68014)
 
-(toc "toc" "    31.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.1" "\\section{引言}" 68036)
+(toc "toc" "    33.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.1" "\\section{引言}" 68036)
 
-(toc "toc" "    31.2 俄国专制主义的本质" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.2" "\\section{俄国专制主义的本质}" 68198)
+(toc "toc" "    33.2 俄国专制主义的本质" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.2" "\\section{俄国专制主义的本质}" 68198)
 
-(toc "toc" "    31.3 马克思和恩格斯论俄国" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.3" "\\section{马克思和恩格斯论俄国}" 70280)
+(toc "toc" "    33.3 马克思和恩格斯论俄国" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.3" "\\section{马克思和恩格斯论俄国}" 70280)
 
-(toc "toc" "    31.4 俄国的民粹主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.4" "\\section{俄国的民粹主义}" 72347)
+(toc "toc" "    33.4 俄国的民粹主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.4" "\\section{俄国的民粹主义}" 72347)
 
-(toc "toc" "    31.5 “晚年马克思”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.5" "\\section{“晚年马克思”}" 73642)
+(toc "toc" "    33.5 “晚年马克思”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.5" "\\section{“晚年马克思”}" 73642)
 
-(toc "toc" "    31.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "31.6" "\\section{结论}" 76682)
+(toc "toc" "    33.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.6" "\\section{结论}" 76682)
 
-(toc "toc" "  32 普列汉诺夫的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "32" "\\chapter{普列汉诺夫的政治经济学}" 77695)
+(toc "toc" "  34 普列汉诺夫的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "34" "\\chapter{普列汉诺夫的政治经济学}" 77695)
 
-(toc "toc" "    32.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.1" "\\section{引言}" 77718)
+(toc "toc" "    34.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "34.1" "\\section{引言}" 77718)
 
-(toc "toc" "    32.2 普列汉诺夫体系，第二国际的正统和俄国马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.2" "\\section{普列汉诺夫体系，第二国际的正统和俄国马克思主义}" 78326)
+(toc "toc" "    34.2 普列汉诺夫体系，第二国际的正统和俄国马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "34.2" "\\section{普列汉诺夫体系，第二国际的正统和俄国马克思主义}" 78326)
 
-(toc "toc" "    32.3 普列汉诺夫对俄国资本主义发展的说明" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.3" "\\section{普列汉诺夫对俄国资本主义发展的说明}" 82953)
+(toc "toc" "    34.3 普列汉诺夫对俄国资本主义发展的说明" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "34.3" "\\section{普列汉诺夫对俄国资本主义发展的说明}" 82953)
 
-(toc "toc" "    32.4 革命的结构" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.4" "\\section{革命的结构}" 86362)
+(toc "toc" "    34.4 革命的结构" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "34.4" "\\section{革命的结构}" 86362)
 
-(toc "toc" "    32.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "32.5" "\\section{结论}" 90418)
+(toc "toc" "    34.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "34.5" "\\section{结论}" 90418)
 
-(toc "toc" "  33 19世纪90年代民粹主义和正统马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "33" "\\chapter{19世纪90年代民粹主义和正统马克思主义}" 91228)
+(toc "toc" "  35 19世纪90年代民粹主义和正统马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 1 "35" "\\chapter{19世纪90年代民粹主义和正统马克思主义}" 91228)
 
-(toc "toc" "    33.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.1" "\\section{引言}" 91260)
+(toc "toc" "    35.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.1" "\\section{引言}" 91260)
 
-(toc "toc" "    33.2 民粹主义的俄国资本主义理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.2" "\\section{民粹主义的俄国资本主义理论}" 92224)
+(toc "toc" "    35.2 民粹主义的俄国资本主义理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.2" "\\section{民粹主义的俄国资本主义理论}" 92224)
 
-(toc "toc" "    33.3 杜冈－巴拉诺夫斯基论扩大再生产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.3" "\\section{杜冈－巴拉诺夫斯基论扩大再生产}" 94815)
+(toc "toc" "    35.3 杜冈－巴拉诺夫斯基论扩大再生产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.3" "\\section{杜冈－巴拉诺夫斯基论扩大再生产}" 94815)
 
-(toc "toc" "    33.4 列宁关于通过扩大商品生产实现剩余价值的理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.4" "\\section{列宁关于通过扩大商品生产实现剩余价值的理论}" 97356)
+(toc "toc" "    35.4 列宁关于通过扩大商品生产实现剩余价值的理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.4" "\\section{列宁关于通过扩大商品生产实现剩余价值的理论}" 97356)
 
-(toc "toc" "    33.5 《19世纪的俄国工厂》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.5" "\\section{《19世纪的俄国工厂》}" 98510)
+(toc "toc" "    35.5 《19世纪的俄国工厂》" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.5" "\\section{《19世纪的俄国工厂》}" 98510)
 
-(toc "toc" "    33.6 俄国农业资本主义的发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.6" "\\section{俄国农业资本主义的发展}" 100636)
+(toc "toc" "    35.6 俄国农业资本主义的发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.6" "\\section{俄国农业资本主义的发展}" 100636)
 
-(toc "toc" "    33.7 马克思主义观点中存在的一些问题" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "33.7" "\\section{马克思主义观点中存在的一些问题}" 102219)
+(toc "toc" "    35.7 马克思主义观点中存在的一些问题" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex" nil 2 "35.7" "\\section{马克思主义观点中存在的一些问题}" 102219)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/1.tex")
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex")
 
-(toc "toc" "  34 俄国的修正主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "34" "\\chapter{俄国的修正主义}" 1)
+(toc "toc" "  36 俄国的修正主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "36" "\\chapter{俄国的修正主义}" 1)
 
-(toc "toc" "    34.1 19世纪90年代俄国马克思主义的三个派别" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.1" "\\section{19世纪90年代俄国马克思主义的三个派别}" 20)
+(toc "toc" "    36.1 19世纪90年代俄国马克思主义的三个派别" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.1" "\\section{19世纪90年代俄国马克思主义的三个派别}" 20)
 
-(toc "toc" "    34.2 辩证法和历史唯物主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.2" "\\section{辩证法和历史唯物主义}" 1580)
+(toc "toc" "    36.2 辩证法和历史唯物主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.2" "\\section{辩证法和历史唯物主义}" 1580)
 
-(toc "toc" "    34.3 消费不足和管理资本主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.3" "\\section{消费不足和管理资本主义}" 3031)
+(toc "toc" "    36.3 消费不足和管理资本主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.3" "\\section{消费不足和管理资本主义}" 3031)
 
-(toc "toc" "    34.4 利润率下降和无产阶级的贫困化" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.4" "\\section{利润率下降和无产阶级的贫困化}" 3956)
+(toc "toc" "    36.4 利润率下降和无产阶级的贫困化" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.4" "\\section{利润率下降和无产阶级的贫困化}" 3956)
 
-(toc "toc" "    34.5 价值和分配理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.5" "\\section{价值和分配理论}" 5815)
+(toc "toc" "    36.5 价值和分配理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.5" "\\section{价值和分配理论}" 5815)
 
-(toc "toc" "    34.6 农业经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.6" "\\section{农业经济学}" 8802)
+(toc "toc" "    36.6 农业经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.6" "\\section{农业经济学}" 8802)
 
-(toc "toc" "    34.7 俄国修正主义的重要意义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "34.7" "\\section{俄国修正主义的重要意义}" 9621)
+(toc "toc" "    36.7 俄国修正主义的重要意义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.7" "\\section{俄国修正主义的重要意义}" 9621)
 
-(toc "toc" "  35 列宁的政治经济学：1905-1914" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "35" "\\chapter{列宁的政治经济学：1905-1914}" 11584)
+(toc "toc" "  37 列宁的政治经济学：1905-1914" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "37" "\\chapter{列宁的政治经济学：1905-1914}" 11584)
 
-(toc "toc" "    35.1 列宁经济思想的分期" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.1" "\\section{列宁经济思想的分期}" 11614)
+(toc "toc" "    37.1 列宁经济思想的分期" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.1" "\\section{列宁经济思想的分期}" 11614)
 
-(toc "toc" "    35.2 俄国马克思主义的土地纲领" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.2" "\\section{俄国马克思主义的土地纲领}" 12549)
+(toc "toc" "    37.2 俄国马克思主义的土地纲领" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.2" "\\section{俄国马克思主义的土地纲领}" 12549)
 
-(toc "toc" "    35.3 布尔什维克的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.3" "\\section{布尔什维克的政治经济学}" 15044)
+(toc "toc" "    37.3 布尔什维克的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.3" "\\section{布尔什维克的政治经济学}" 15044)
 
-(toc "toc" "    35.4 俄国历史和“普鲁士道路”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.4" "\\section{俄国历史和“普鲁士道路”}" 17055)
+(toc "toc" "    37.4 俄国历史和“普鲁士道路”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.4" "\\section{俄国历史和“普鲁士道路”}" 17055)
 
-(toc "toc" "    35.5 布尔什维克的策略和“美国式道路”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.5" "\\section{布尔什维克的策略和“美国式道路”}" 18403)
+(toc "toc" "    37.5 布尔什维克的策略和“美国式道路”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.5" "\\section{布尔什维克的策略和“美国式道路”}" 18403)
 
-(toc "toc" "    35.6 列宁主义的力量" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.6" "\\section{列宁主义的力量}" 21576)
+(toc "toc" "    37.6 列宁主义的力量" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.6" "\\section{列宁主义的力量}" 21576)
 
-(toc "toc" "    35.7 列宁政治经济学中的矛盾和难题" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "35.7" "\\section{列宁政治经济学中的矛盾和难题}" 24251)
+(toc "toc" "    37.7 列宁政治经济学中的矛盾和难题" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.7" "\\section{列宁政治经济学中的矛盾和难题}" 24251)
 
-(toc "toc" "  36 托洛茨基论不平衡和综合发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "36" "\\chapter{托洛茨基论不平衡和综合发展}" 27809)
+(toc "toc" "  38 托洛茨基论不平衡和综合发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "38" "\\chapter{托洛茨基论不平衡和综合发展}" 27809)
 
-(toc "toc" "    36.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.1" "\\section{引言}" 27834)
+(toc "toc" "    38.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.1" "\\section{引言}" 27834)
 
-(toc "toc" "    36.2 俄国不断革命的政治学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.2" "\\section{俄国不断革命的政治学}" 28382)
+(toc "toc" "    38.2 俄国不断革命的政治学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.2" "\\section{俄国不断革命的政治学}" 28382)
 
-(toc "toc" "    36.3 俄国的不平衡和综合发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.3" "\\section{俄国的不平衡和综合发展}" 30262)
+(toc "toc" "    38.3 俄国的不平衡和综合发展" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.3" "\\section{俄国的不平衡和综合发展}" 30262)
 
-(toc "toc" "    36.4 托洛茨基的马克思主义和马克思主义的遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.4" "\\section{托洛茨基的马克思主义和马克思主义的遗产}" 33453)
+(toc "toc" "    38.4 托洛茨基的马克思主义和马克思主义的遗产" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.4" "\\section{托洛茨基的马克思主义和马克思主义的遗产}" 33453)
 
-(toc "toc" "    36.5 帝国主义与世界经济" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.5" "\\section{帝国主义与世界经济}" 38236)
+(toc "toc" "    38.5 帝国主义与世界经济" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.5" "\\section{帝国主义与世界经济}" 38236)
 
-(toc "toc" "    36.6 托洛茨基的马克思主义的力量" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.6" "\\section{托洛茨基的马克思主义的力量}" 40269)
+(toc "toc" "    38.6 托洛茨基的马克思主义的力量" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.6" "\\section{托洛茨基的马克思主义的力量}" 40269)
 
-(toc "toc" "    36.7 托洛茨基马克思主义的不足" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "36.7" "\\section{托洛茨基马克思主义的不足}" 42037)
+(toc "toc" "    38.7 托洛茨基马克思主义的不足" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.7" "\\section{托洛茨基马克思主义的不足}" 42037)
 
-(toc "toc" "  37 帝国主义和战争：布哈林和列宁论垄断资本主义，1914～1917" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "37" "\\chapter[帝国主义和战争]{帝国主义和战争：布哈林和列宁论垄断资本主义，1914～1917}" 44852)
+(toc "toc" "  39 帝国主义和战争：布哈林和列宁论垄断资本主义，1914～1917" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "39" "\\chapter[帝国主义和战争]{帝国主义和战争：布哈林和列宁论垄断资本主义，1914～1917}" 44852)
 
-(toc "toc" "    37.1 战争对俄国马克思主义的影响" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.1" "\\section{战争对俄国马克思主义的影响}" 44904)
+(toc "toc" "    39.1 战争对俄国马克思主义的影响" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.1" "\\section{战争对俄国马克思主义的影响}" 44904)
 
-(toc "toc" "    37.2 布哈林论世界经济和帝国主义国家" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.2" "\\section{布哈林论世界经济和帝国主义国家}" 46245)
+(toc "toc" "    39.2 布哈林论世界经济和帝国主义国家" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.2" "\\section{布哈林论世界经济和帝国主义国家}" 46245)
 
-(toc "toc" "    37.3 布哈林、托洛茨基和列宁" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.3" "\\section{布哈林、托洛茨基和列宁}" 49985)
+(toc "toc" "    39.3 布哈林、托洛茨基和列宁" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.3" "\\section{布哈林、托洛茨基和列宁}" 49985)
 
-(toc "toc" "    37.4 列宁的《帝国主义论》和向布哈林的转向" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.4" "\\section{列宁的《帝国主义论》和向布哈林的转向}" 51831)
+(toc "toc" "    39.4 列宁的《帝国主义论》和向布哈林的转向" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.4" "\\section{列宁的《帝国主义论》和向布哈林的转向}" 51831)
 
-(toc "toc" "    37.5 列宁和“不断革命论”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.5" "\\section{列宁和“不断革命论”}" 56647)
+(toc "toc" "    39.5 列宁和“不断革命论”" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.5" "\\section{列宁和“不断革命论”}" 56647)
 
-(toc "toc" "    37.6 对布尔什维克政治经济的评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "37.6" "\\section{对布尔什维克政治经济的评价}" 58363)
+(toc "toc" "    39.6 对布尔什维克政治经济的评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.6" "\\section{对布尔什维克政治经济的评价}" 58363)
 
 (toc "toc" "Part VIII 社会民主主义和共产主义：1917～1929" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 0 "Part VIII" "\\part{社会民主主义和共产主义：1917～1929}" 63264)
 
-(toc "toc" "  38 修正主义的复兴" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "38" "\\chapter{修正主义的复兴}" 63294)
+(toc "toc" "  40 修正主义的复兴" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "40" "\\chapter{修正主义的复兴}" 63294)
 
-(toc "toc" "    38.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.1" "\\section{引言}" 63313)
+(toc "toc" "    40.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.1" "\\section{引言}" 63313)
 
-(toc "toc" "    38.2 “有组织的资本主义”和新修正主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.2" "\\section{“有组织的资本主义”和新修正主义}" 64313)
+(toc "toc" "    40.2 “有组织的资本主义”和新修正主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.2" "\\section{“有组织的资本主义”和新修正主义}" 64313)
 
-(toc "toc" "    38.3 弗里茨·斯滕伯格论帝国主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.3" "\\section{弗里茨·斯滕伯格论帝国主义}" 70241)
+(toc "toc" "    40.3 弗里茨·斯滕伯格论帝国主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.3" "\\section{弗里茨·斯滕伯格论帝国主义}" 70241)
 
-(toc "toc" "    38.4 对斯滕伯格的评论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.4" "\\section{对斯滕伯格的评论}" 73659)
+(toc "toc" "    40.4 对斯滕伯格的评论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.4" "\\section{对斯滕伯格的评论}" 73659)
 
-(toc "toc" "    38.5 一个评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "38.5" "\\section{一个评价}" 75061)
+(toc "toc" "    40.5 一个评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.5" "\\section{一个评价}" 75061)
 
-(toc "toc" "  39 向社会主义过渡：1917～1929年的共产主义经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "39" "\\chapter{向社会主义过渡：1917～1929年的共产主义经济学}" 76868)
+(toc "toc" "  41 向社会主义过渡：1917～1929年的共产主义经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "41" "\\chapter{向社会主义过渡：1917～1929年的共产主义经济学}" 76868)
 
-(toc "toc" "    39.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.1" "\\section{引言}" 76906)
+(toc "toc" "    41.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.1" "\\section{引言}" 76906)
 
-(toc "toc" "    39.2 作为过渡模式的国家资本主义和公社国家" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.2" "\\section{作为过渡模式的国家资本主义和公社国家}" 81442)
+(toc "toc" "    41.2 作为过渡模式的国家资本主义和公社国家" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.2" "\\section{作为过渡模式的国家资本主义和公社国家}" 81442)
 
-(toc "toc" "    39.3 直接向社会主义过渡的战时共产主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.3" "\\section{直接向社会主义过渡的战时共产主义}" 82955)
+(toc "toc" "    41.3 直接向社会主义过渡的战时共产主义" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.3" "\\section{直接向社会主义过渡的战时共产主义}" 82955)
 
-(toc "toc" "    39.4 工农联盟的政治经济学：布哈林的间接过渡理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.4" "\\section{工农联盟的政治经济学：布哈林的间接过渡理论}" 85382)
+(toc "toc" "    41.4 工农联盟的政治经济学：布哈林的间接过渡理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.4" "\\section{工农联盟的政治经济学：布哈林的间接过渡理论}" 85382)
 
-(toc "toc" "    39.5 苏维埃关于西方和过渡问题的观点" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.5" "\\section{苏维埃关于西方和过渡问题的观点}" 87924)
+(toc "toc" "    41.5 苏维埃关于西方和过渡问题的观点" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.5" "\\section{苏维埃关于西方和过渡问题的观点}" 87924)
 
-(toc "toc" "    39.6 社会主义原始积累：普列奥布拉任斯基的二元经济过渡理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.6" "\\section{社会主义原始积累：普列奥布拉任斯基的二元经济过渡理论}" 89987)
+(toc "toc" "    41.6 社会主义原始积累：普列奥布拉任斯基的二元经济过渡理论" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.6" "\\section{社会主义原始积累：普列奥布拉任斯基的二元经济过渡理论}" 89987)
 
-(toc "toc" "    39.7 布哈林和普列奥布拉任斯基的比较" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.7" "\\section{布哈林和普列奥布拉任斯基的比较}" 92277)
+(toc "toc" "    41.7 布哈林和普列奥布拉任斯基的比较" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.7" "\\section{布哈林和普列奥布拉任斯基的比较}" 92277)
 
-(toc "toc" "    39.8 一国社会主义或不断革命" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.8" "\\section{一国社会主义或不断革命}" 94765)
+(toc "toc" "    41.8 一国社会主义或不断革命" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.8" "\\section{一国社会主义或不断革命}" 94765)
 
-(toc "toc" "    39.9 斯大林主义的解决方法" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "39.9" "\\section{斯大林主义的解决方法}" 99207)
+(toc "toc" "    41.9 斯大林主义的解决方法" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "41.9" "\\section{斯大林主义的解决方法}" 99207)
 
-(toc "toc" "  40 亨利克·格罗斯曼和资本主义的崩溃" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "40" "\\chapter{亨利克·格罗斯曼和资本主义的崩溃}" 100040)
+(toc "toc" "  42 亨利克·格罗斯曼和资本主义的崩溃" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "42" "\\chapter{亨利克·格罗斯曼和资本主义的崩溃}" 100040)
 
-(toc "toc" "    40.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.1" "\\section{引言}" 100068)
+(toc "toc" "    42.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.1" "\\section{引言}" 100068)
 
-(toc "toc" "    40.2 格罗斯曼的崩溃和危机模型" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.2" "\\section{格罗斯曼的崩溃和危机模型}" 101702)
+(toc "toc" "    42.2 格罗斯曼的崩溃和危机模型" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.2" "\\section{格罗斯曼的崩溃和危机模型}" 101702)
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/table1.tex")
 
@@ -760,13 +862,13 @@
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/table3.tex")
 
-(toc "toc" "    40.3 崩溃理论的政治学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.3" "\\section{崩溃理论的政治学}" 106098)
+(toc "toc" "    42.3 崩溃理论的政治学" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.3" "\\section{崩溃理论的政治学}" 106098)
 
-(toc "toc" "    40.4 格罗斯曼的批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.4" "\\section{格罗斯曼的批评者}" 109413)
+(toc "toc" "    42.4 格罗斯曼的批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.4" "\\section{格罗斯曼的批评者}" 109413)
 
-(toc "toc" "    40.5 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.5" "\\section{评价}" 111147)
+(toc "toc" "    42.5 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.5" "\\section{评价}" 111147)
 
-(toc "toc" "    40.6 附录：格罗斯曼崩溃模型的代数公式" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "40.6" "\\section{附录：格罗斯曼崩溃模型的代数公式}" 112567)
+(toc "toc" "    42.6 附录：格罗斯曼崩溃模型的代数公式" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 2 "42.6" "\\section{附录：格罗斯曼崩溃模型的代数公式}" 112567)
 
 (toc "toc" "     * 结束语" "/home/sd44/xueshu/tex笔记系统/data/marx1883-1929/2.tex" nil 1 "   *" "\\chapter*{结束语}" 112595)
 
@@ -776,79 +878,79 @@
 
 (toc "toc" "Part IX 大萧条与斯大林主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 0 "Part IX" "\\part{大萧条与斯大林主义}" 1)
 
-(toc "toc" "  41 马克思主义经济学与大萧条" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "41" "\\chapter{马克思主义经济学与大萧条}" 19)
+(toc "toc" "  43 马克思主义经济学与大萧条" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "43" "\\chapter{马克思主义经济学与大萧条}" 19)
 
-(toc "toc" "    41.1 资本主义的最后一次危机" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "41.1" "\\section{资本主义的最后一次危机}" 42)
+(toc "toc" "    43.1 资本主义的最后一次危机" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.1" "\\section{资本主义的最后一次危机}" 42)
 
-(toc "toc" "    41.2 大萧条的原因" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "41.2" "\\section{大萧条的原因}" 6596)
+(toc "toc" "    43.2 大萧条的原因" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.2" "\\section{大萧条的原因}" 6596)
 
-(toc "toc" "    41.3 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "41.3" "\\section{结论}" 13018)
+(toc "toc" "    43.3 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.3" "\\section{结论}" 13018)
 
-(toc "toc" "  42 斯大林的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "42" "\\chapter{斯大林的政治经济学}" 15131)
+(toc "toc" "  44 斯大林的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "44" "\\chapter{斯大林的政治经济学}" 15131)
 
-(toc "toc" "    42.1 斯大林体制" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "42.1" "\\section{斯大林体制}" 15151)
+(toc "toc" "    44.1 斯大林体制" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.1" "\\section{斯大林体制}" 15151)
 
-(toc "toc" "    42.2 斯大林的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "42.2" "\\section{斯大林的政治经济学}" 17486)
+(toc "toc" "    44.2 斯大林的政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.2" "\\section{斯大林的政治经济学}" 17486)
 
-(toc "toc" "    42.3 斯大林主义与马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "42.3" "\\section{斯大林主义与马克思主义}" 26957)
+(toc "toc" "    44.3 斯大林主义与马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.3" "\\section{斯大林主义与马克思主义}" 26957)
 
-(toc "toc" "  43 苏联生产方式" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "43" "\\chapter{苏联生产方式}" 31070)
+(toc "toc" "  45 苏联生产方式" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "45" "\\chapter{苏联生产方式}" 31070)
 
-(toc "toc" "    43.1 预期" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.1" "\\section{预期}" 31087)
+(toc "toc" "    45.1 预期" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.1" "\\section{预期}" 31087)
 
-(toc "toc" "    43.2 一个蜕变的工人阶级国家？" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.2" "\\section{一个蜕变的工人阶级国家？}" 35057)
+(toc "toc" "    45.2 一个蜕变的工人阶级国家？" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.2" "\\section{一个蜕变的工人阶级国家？}" 35057)
 
-(toc "toc" "    43.3 官僚集体主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.3" "\\section{官僚集体主义}" 42637)
+(toc "toc" "    45.3 官僚集体主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.3" "\\section{官僚集体主义}" 42637)
 
-(toc "toc" "    43.4 国家资本主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "43.4" "\\section{国家资本主义}" 46754)
+(toc "toc" "    45.4 国家资本主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.4" "\\section{国家资本主义}" 46754)
 
 (toc "toc" "Part X 长期繁荣" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 0 "Part X" "\\part{长期繁荣}" 51564)
 
-(toc "toc" "  44 “资本主义发生变化了吗？”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "44" "\\chapter{“资本主义发生变化了吗？”}" 51577)
+(toc "toc" "  46 “资本主义发生变化了吗？”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "46" "\\chapter{“资本主义发生变化了吗？”}" 51577)
 
-(toc "toc" "    44.1 正统马克思主义的反思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.1" "\\section{正统马克思主义的反思}" 51601)
+(toc "toc" "    46.1 正统马克思主义的反思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.1" "\\section{正统马克思主义的反思}" 51601)
 
-(toc "toc" "    44.2 “资本主义发生变化了吗”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.2" "\\section{“资本主义发生变化了吗”}" 55897)
+(toc "toc" "    46.2 “资本主义发生变化了吗”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.2" "\\section{“资本主义发生变化了吗”}" 55897)
 
-(toc "toc" "    44.3 法兰克福学派与非经济分析的萌芽" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.3" "\\section{法兰克福学派与非经济分析的萌芽}" 60404)
+(toc "toc" "    46.3 法兰克福学派与非经济分析的萌芽" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.3" "\\section{法兰克福学派与非经济分析的萌芽}" 60404)
 
-(toc "toc" "    44.4 没有结束的繁荣，无止境的工商业" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "44.4" "\\section{没有结束的繁荣，无止境的工商业}" 64102)
+(toc "toc" "    46.4 没有结束的繁荣，无止境的工商业" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.4" "\\section{没有结束的繁荣，无止境的工商业}" 64102)
 
-(toc "toc" "  45 马克思与凯恩斯" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "45" "\\chapter{马克思与凯恩斯}" 65043)
+(toc "toc" "  47 马克思与凯恩斯" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "47" "\\chapter{马克思与凯恩斯}" 65043)
 
-(toc "toc" "    45.1 凯恩斯与马克思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.1" "\\section{凯恩斯与马克思}" 65061)
+(toc "toc" "    47.1 凯恩斯与马克思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.1" "\\section{凯恩斯与马克思}" 65061)
 
-(toc "toc" "    45.2 马克思主义者论凯恩斯：最初的回应" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.2" "\\section{马克思主义者论凯恩斯：最初的回应}" 67703)
+(toc "toc" "    47.2 马克思主义者论凯恩斯：最初的回应" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.2" "\\section{马克思主义者论凯恩斯：最初的回应}" 67703)
 
-(toc "toc" "    45.3 凯恩斯主义者与马克思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.3" "\\section{凯恩斯主义者与马克思}" 72113)
+(toc "toc" "    47.3 凯恩斯主义者与马克思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.3" "\\section{凯恩斯主义者与马克思}" 72113)
 
-(toc "toc" "    45.4 马克思主义者论凯恩斯：第二次和第三次思考" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.4" "\\section{马克思主义者论凯恩斯：第二次和第三次思考}" 74635)
+(toc "toc" "    47.4 马克思主义者论凯恩斯：第二次和第三次思考" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.4" "\\section{马克思主义者论凯恩斯：第二次和第三次思考}" 74635)
 
 ("e:fifth1" "e" "工资+利润=工人的消费+资本家的消费+投资  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil)
 
 ("e:fifth2" "e" "利润=资本家的消费+投资  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil)
 
-(toc "toc" "    45.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "45.5" "\\section{结论}" 79199)
+(toc "toc" "    47.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.5" "\\section{结论}" 79199)
 
-(toc "toc" "  46 垄断资本" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "46" "\\chapter{垄断资本}" 79792)
+(toc "toc" "  48 垄断资本" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "48" "\\chapter{垄断资本}" 79792)
 
-(toc "toc" "    46.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.1" "\\section{引言}" 79807)
+(toc "toc" "    48.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.1" "\\section{引言}" 79807)
 
-(toc "toc" "    46.2 《垄断资本》的起源" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.2" "\\section{《垄断资本》的起源}" 80465)
+(toc "toc" "    48.2 《垄断资本》的起源" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.2" "\\section{《垄断资本》的起源}" 80465)
 
-(toc "toc" "    46.3 介绍保罗·巴兰" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.3" "\\section{介绍保罗·巴兰}" 84185)
+(toc "toc" "    48.3 介绍保罗·巴兰" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.3" "\\section{介绍保罗·巴兰}" 84185)
 
-(toc "toc" "    46.4 《垄断资本》" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.4" "\\section{《垄断资本》}" 86997)
+(toc "toc" "    48.4 《垄断资本》" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.4" "\\section{《垄断资本》}" 86997)
 
-(toc "toc" "    46.5 《垄断资本》及其批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.5" "\\section{《垄断资本》及其批评者}" 90339)
+(toc "toc" "    48.5 《垄断资本》及其批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.5" "\\section{《垄断资本》及其批评者}" 90339)
 
-(toc "toc" "    46.6 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "46.6" "\\section{评价}" 93804)
+(toc "toc" "    48.6 评价" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.6" "\\section{评价}" 93804)
 
-(toc "toc" "  47 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "47" "\\chapter{下降的利润率}" 94681)
+(toc "toc" "  49 下降的利润率" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "49" "\\chapter{下降的利润率}" 94681)
 
-(toc "toc" "    47.1 下降的利润率：1883—1918年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.1" "\\section{下降的利润率：1883—1918年}" 94698)
+(toc "toc" "    49.1 下降的利润率：1883—1918年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "49.1" "\\section{下降的利润率：1883—1918年}" 94698)
 
-(toc "toc" "    47.2 1918—1945年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.2" "\\section{1918—1945年}" 98538)
+(toc "toc" "    49.2 1918—1945年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "49.2" "\\section{1918—1945年}" 98538)
 
 ("e:510gu" "e" "170谷物+340劳动 \\to 510谷物  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil)
 
@@ -858,23 +960,23 @@
 
 ("e:612suba" "e" "272c+170v+170m=612 \\tag{\\eqref{e:612}$a$} " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil)
 
-(toc "toc" "    47.3 1945—1973年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.3" "\\section{1945—1973年}" 106842)
+(toc "toc" "    49.3 1945—1973年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "49.3" "\\section{1945—1973年}" 106842)
 
-(toc "toc" "    47.4 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "47.4" "\\section{结论}" 113809)
+(toc "toc" "    49.4 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "49.4" "\\section{结论}" 113809)
 
-(toc "toc" "  48 持久的军事经济" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "48" "\\chapter{持久的军事经济}" 114145)
+(toc "toc" "  50 持久的军事经济" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 1 "50" "\\chapter{持久的军事经济}" 114145)
 
-(toc "toc" "    48.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.1" "\\section{引言}" 114163)
+(toc "toc" "    50.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.1" "\\section{引言}" 114163)
 
-(toc "toc" "    48.2 1939年之前的马克思主义和军费开支" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.2" "\\section{1939年之前的马克思主义和军费开支}" 115727)
+(toc "toc" "    50.2 1939年之前的马克思主义和军费开支" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.2" "\\section{1939年之前的马克思主义和军费开支}" 115727)
 
-(toc "toc" "    48.3 军事支出和有效需求" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.3" "\\section{军事支出和有效需求}" 118451)
+(toc "toc" "    50.3 军事支出和有效需求" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.3" "\\section{军事支出和有效需求}" 118451)
 
-(toc "toc" "    48.4 武器和利润率下降" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.4" "\\section{武器和利润率下降}" 122251)
+(toc "toc" "    50.4 武器和利润率下降" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.4" "\\section{武器和利润率下降}" 122251)
 
-(toc "toc" "    48.5 军事支出的成本" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.5" "\\section{军事支出的成本}" 124444)
+(toc "toc" "    50.5 军事支出的成本" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.5" "\\section{军事支出的成本}" 124444)
 
-(toc "toc" "    48.6 资本主义与和平" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "48.6" "\\section{资本主义与和平}" 126134)
+(toc "toc" "    50.6 资本主义与和平" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex" nil 2 "50.6" "\\section{资本主义与和平}" 126134)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/1.tex")
 
@@ -882,55 +984,55 @@
 
 (toc "toc" "Part XI 新帝国主义理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 0 "Part XI" "\\part{新帝国主义理论}" 1)
 
-(toc "toc" "  49 资本主义与不发达" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "49" "\\chapter{资本主义与不发达}" 17)
+(toc "toc" "  51 资本主义与不发达" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "51" "\\chapter{资本主义与不发达}" 17)
 
-(toc "toc" "    49.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "49.1" "\\section{引言}" 37)
+(toc "toc" "    51.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.1" "\\section{引言}" 37)
 
-(toc "toc" "    49.2 保罗·巴兰和《增长的政治经济学》" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "49.2" "\\section{保罗·巴兰和《增长的政治经济学》}" 2100)
+(toc "toc" "    51.2 保罗·巴兰和《增长的政治经济学》" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.2" "\\section{保罗·巴兰和《增长的政治经济学》}" 2100)
 
-(toc "toc" "    49.3 弗兰克的修正" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "49.3" "\\section{弗兰克的修正}" 8097)
+(toc "toc" "    51.3 弗兰克的修正" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.3" "\\section{弗兰克的修正}" 8097)
 
-(toc "toc" "    49.4 沃勒斯坦对弗兰克的修正" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "49.4" "\\section{沃勒斯坦对弗兰克的修正}" 10657)
+(toc "toc" "    51.4 沃勒斯坦对弗兰克的修正" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.4" "\\section{沃勒斯坦对弗兰克的修正}" 10657)
 
-(toc "toc" "  50 不平等交换" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "50" "\\chapter{不平等交换}" 14372)
+(toc "toc" "  52 不平等交换" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "52" "\\chapter{不平等交换}" 14372)
 
-(toc "toc" "    50.1 伊曼纽尔之前的不平等交换理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.1" "\\section{伊曼纽尔之前的不平等交换理论}" 14389)
+(toc "toc" "    52.1 伊曼纽尔之前的不平等交换理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.1" "\\section{伊曼纽尔之前的不平等交换理论}" 14389)
 
-(toc "toc" "    50.2 伊曼纽尔的不平等交换理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.2" "\\section{伊曼纽尔的不平等交换理论}" 17851)
+(toc "toc" "    52.2 伊曼纽尔的不平等交换理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.2" "\\section{伊曼纽尔的不平等交换理论}" 17851)
 
-(toc "toc" "    50.3 伊曼纽尔和他的批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.3" "\\section{伊曼纽尔和他的批评者}" 21355)
+(toc "toc" "    52.3 伊曼纽尔和他的批评者" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.3" "\\section{伊曼纽尔和他的批评者}" 21355)
 
-(toc "toc" "    50.4 安德森重新表述的公式" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.4" "\\section{安德森重新表述的公式}" 24860)
+(toc "toc" "    52.4 安德森重新表述的公式" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.4" "\\section{安德森重新表述的公式}" 24860)
 
-(toc "toc" "    50.5 一些未回答的问题" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.5" "\\section{一些未回答的问题}" 29911)
+(toc "toc" "    52.5 一些未回答的问题" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.5" "\\section{一些未回答的问题}" 29911)
 
-(toc "toc" "    50.6 附录A：有机构成不同导致的不平等交换" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.6" "\\section{附录A：有机构成不同导致的不平等交换}" 30830)
+(toc "toc" "    52.6 附录A：有机构成不同导致的不平等交换" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.6" "\\section{附录A：有机构成不同导致的不平等交换}" 30830)
 
-(toc "toc" "    50.7 附录B：安德森模型的数字例子" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "50.7" "\\section{附录B：安德森模型的数字例子}" 31732)
+(toc "toc" "    52.7 附录B：安德森模型的数字例子" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.7" "\\section{附录B：安德森模型的数字例子}" 31732)
 
-(toc "toc" "  51 对不发达理论的批评" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "51" "\\chapter{对不发达理论的批评}" 32869)
+(toc "toc" "  53 对不发达理论的批评" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "53" "\\chapter{对不发达理论的批评}" 32869)
 
-(toc "toc" "    51.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.1" "\\section{引言}" 32890)
+(toc "toc" "    53.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.1" "\\section{引言}" 32890)
 
-(toc "toc" "    51.2 接合理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.2" "\\section{接合理论}" 35201)
+(toc "toc" "    53.2 接合理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.2" "\\section{接合理论}" 35201)
 
-(toc "toc" "    51.3 阶级关系与发展" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.3" "\\section{阶级关系与发展}" 38220)
+(toc "toc" "    53.3 阶级关系与发展" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.3" "\\section{阶级关系与发展}" 38220)
 
-(toc "toc" "    51.4 生产力与生产关系" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.4" "\\section{生产力与生产关系}" 41053)
+(toc "toc" "    53.4 生产力与生产关系" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.4" "\\section{生产力与生产关系}" 41053)
 
-(toc "toc" "    51.5 资本主义在外围的发展" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.5" "\\section{资本主义在外围的发展}" 43432)
+(toc "toc" "    53.5 资本主义在外围的发展" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.5" "\\section{资本主义在外围的发展}" 43432)
 
-(toc "toc" "    51.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "51.6" "\\section{结论}" 47090)
+(toc "toc" "    53.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.6" "\\section{结论}" 47090)
 
 (toc "toc" "Part XII 价值与剥削" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 0 "Part XII" "\\part{价值与剥削}" 48542)
 
-(toc "toc" "  52 斯拉法之前的价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "52" "\\chapter{斯拉法之前的价值理论}" 48556)
+(toc "toc" "  54 斯拉法之前的价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "54" "\\chapter{斯拉法之前的价值理论}" 48556)
 
-(toc "toc" "    52.1 第四篇引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.1" "\\section{第四篇引言}" 48578)
+(toc "toc" "    54.1 第四篇引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.1" "\\section{第四篇引言}" 48578)
 
-(toc "toc" "    52.2 价值理论：1914—1939年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.2" "\\section{价值理论：1914—1939年}" 51211)
+(toc "toc" "    54.2 价值理论：1914—1939年" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.2" "\\section{价值理论：1914—1939年}" 51211)
 
-(toc "toc" "    52.3 博特凯维兹的重新发现" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.3" "\\section{博特凯维兹的重新发现}" 55231)
+(toc "toc" "    54.3 博特凯维兹的重新发现" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.3" "\\section{博特凯维兹的重新发现}" 55231)
 
 ("e:wente1" "e" "c_1+v_1+s_1=a_1 " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
@@ -952,7 +1054,7 @@
 
 ("e:wente6a" "e" "\\frac{\\sum a}{\\sum v}= \\frac{\\sum a_p}{\\sum v_p} \\tag{\\ref{e:wente6}$a$}  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    52.4 塞顿和萨缪尔逊" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "52.4" "\\section{塞顿和萨缪尔逊}" 60585)
+(toc "toc" "    54.4 塞顿和萨缪尔逊" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.4" "\\section{塞顿和萨缪尔逊}" 60585)
 
 ("e:wente10" "e" "k_{11}+k_{21}+ \\cdots + k_{n1}+e_1 &=a_1  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
@@ -970,11 +1072,11 @@
 
 ("e:wente17" "e" "\\resizebox{0.7\\textwidth}{!}{% \\begin{tabular}{@{}lllll@{}} \\toprule & 不变资本 & 可变资本 & 剩余价值 & 总价值 " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "  53 斯拉法和对马克思理论的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "53" "\\chapter{斯拉法和对马克思理论的批判}" 65986)
+(toc "toc" "  55 斯拉法和对马克思理论的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "55" "\\chapter{斯拉法和对马克思理论的批判}" 65986)
 
-(toc "toc" "    53.1 “资本争论”和萨缪尔逊的回答" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.1" "\\section{“资本争论”和萨缪尔逊的回答}" 66011)
+(toc "toc" "    55.1 “资本争论”和萨缪尔逊的回答" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.1" "\\section{“资本争论”和萨缪尔逊的回答}" 66011)
 
-(toc "toc" "    53.2 “复杂的迂回”的进一步确证" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.2" "\\section{“复杂的迂回”的进一步确证}" 68013)
+(toc "toc" "    55.2 “复杂的迂回”的进一步确证" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.2" "\\section{“复杂的迂回”的进一步确证}" 68013)
 
 ("t:Sraffa1" "t" "斯拉法关于包括联合生产和固定资本的技术过程" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
@@ -984,7 +1086,7 @@
 
 ("fig:sraffa1" "f" "斯拉法和马克思的“路径”的对比" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    53.3 “复杂的迂回”不存在" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.3" "\\section{“复杂的迂回”不存在}" 72325)
+(toc "toc" "    55.3 “复杂的迂回”不存在" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.3" "\\section{“复杂的迂回”不存在}" 72325)
 
 ("t:Sraffa4" "t" "表\\ref{t:Sraffa1}中所表明的体系类型的一个数字例证" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
@@ -998,7 +1100,7 @@
 
 ("t:Sraffa9" "t" "用价值表示的表\\ref{t:Sraffa7}体系" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    53.4 马克思“迂回”的死胡同" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.4" "\\section{马克思“迂回”的死胡同}" 76235)
+(toc "toc" "    55.4 马克思“迂回”的死胡同" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.4" "\\section{马克思“迂回”的死胡同}" 76235)
 
 ("t:Sraffa10" "t" "表\\ref{t:Sraffa1}中所表明体系类型的第三个数字例证" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
@@ -1008,49 +1110,49 @@
 
 ("t:Sraffa13" "t" "斯蒂德曼的例证" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    53.5 体现马克思精神实质的一个新的斯拉法迂回" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.5" "\\section{体现马克思精神实质的一个新的斯拉法迂回}" 80796)
+(toc "toc" "    55.5 体现马克思精神实质的一个新的斯拉法迂回" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.5" "\\section{体现马克思精神实质的一个新的斯拉法迂回}" 80796)
 
 ("t:Sraffa14" "t" "表\\ref{t:Sraffa15}中的标准体系赖以建立的原有体系" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
 ("t:Sraffa15" "t" "表\\ref{t:Sraffa14}体系的标准体系" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    53.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "53.6" "\\section{结论}" 85396)
+(toc "toc" "    55.6 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "55.6" "\\section{结论}" 85396)
 
-(toc "toc" "  54 斯拉法之后马克思的价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "54" "\\chapter{斯拉法之后马克思的价值理论}" 85900)
+(toc "toc" "  56 斯拉法之后马克思的价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 1 "56" "\\chapter{斯拉法之后马克思的价值理论}" 85900)
 
-(toc "toc" "    54.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.1" "\\section{引言}" 85925)
+(toc "toc" "    56.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.1" "\\section{引言}" 85925)
 
-(toc "toc" "    54.2 早期的贡献" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.2" "\\section{早期的贡献}" 86847)
+(toc "toc" "    56.2 早期的贡献" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.2" "\\section{早期的贡献}" 86847)
 
-(toc "toc" "    54.3 萨缪尔逊争论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.3" "\\section{萨缪尔逊争论}" 88669)
+(toc "toc" "    56.3 萨缪尔逊争论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.3" "\\section{萨缪尔逊争论}" 88669)
 
-(toc "toc" "    54.4 森岛通夫和斯蒂德曼加入论战" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.4" "\\section{森岛通夫和斯蒂德曼加入论战}" 92441)
+(toc "toc" "    56.4 森岛通夫和斯蒂德曼加入论战" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.4" "\\section{森岛通夫和斯蒂德曼加入论战}" 92441)
 
-(toc "toc" "    54.5 回到“历史上的转型问题”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.5" "\\section{回到“历史上的转型问题”}" 95673)
+(toc "toc" "    56.5 回到“历史上的转型问题”" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.5" "\\section{回到“历史上的转型问题”}" 95673)
 
-(toc "toc" "    54.6 再次提及转型的逻辑" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.6" "\\section{再次提及转型的逻辑}" 97618)
+(toc "toc" "    56.6 再次提及转型的逻辑" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.6" "\\section{再次提及转型的逻辑}" 97618)
 
 ("e:after1" "s" " " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
 ("e:after2" "e" "\\begin{aligned} (\\sfrac{1}{2}p_s + \\sfrac{1}{2})(1+r)=p_s " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil)
 
-(toc "toc" "    54.7 价值理论的其他问题" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.7" "\\section{价值理论的其他问题}" 102762)
+(toc "toc" "    56.7 价值理论的其他问题" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.7" "\\section{价值理论的其他问题}" 102762)
 
-(toc "toc" "    54.8 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "54.8" "\\section{结论}" 105140)
+(toc "toc" "    56.8 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex" nil 2 "56.8" "\\section{结论}" 105140)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/2.tex")
 
 (bof "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex")
 
-(toc "toc" "  55 马克思主义政治经济学和剩余经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "55" "\\chapter{马克思主义政治经济学和剩余经济学}" 1)
+(toc "toc" "  57 马克思主义政治经济学和剩余经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "57" "\\chapter{马克思主义政治经济学和剩余经济学}" 1)
 
-(toc "toc" "    55.1 斯拉法马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "55.1" "\\section{斯拉法马克思主义}" 31)
+(toc "toc" "    57.1 斯拉法马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.1" "\\section{斯拉法马克思主义}" 31)
 
-(toc "toc" "    55.2 经济思想史中的剩余传统" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "55.2" "\\section{经济思想史中的剩余传统}" 2242)
+(toc "toc" "    57.2 经济思想史中的剩余传统" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.2" "\\section{经济思想史中的剩余传统}" 2242)
 
-(toc "toc" "    55.3 马克思主义对剩余传统的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "55.3" "\\section{马克思主义对剩余传统的批判}" 3820)
+(toc "toc" "    57.3 马克思主义对剩余传统的批判" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.3" "\\section{马克思主义对剩余传统的批判}" 3820)
 
-(toc "toc" "    55.4 超越价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "55.4" "\\section{超越价值理论}" 6181)
+(toc "toc" "    57.4 超越价值理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.4" "\\section{超越价值理论}" 6181)
 
 ("eq:fifteen1" "e" "P=(1-s_c)P+ I  " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
@@ -1058,61 +1160,61 @@
 
 ("eq:fifteen3" "e" "r=g \\div s_c " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
-(toc "toc" "    55.5 斯拉法分析的局限性" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "55.5" "\\section{斯拉法分析的局限性}" 9823)
+(toc "toc" "    57.5 斯拉法分析的局限性" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.5" "\\section{斯拉法分析的局限性}" 9823)
 
 (toc "toc" "Part XIII 当前的争论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 0 "Part XIII" "\\part{当前的争论}" 13143)
 
-(toc "toc" "  56 “第二次衰退”： 1973年之后的危机理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "56" "\\chapter{“第二次衰退”： 1973年之后的危机理论}" 13157)
+(toc "toc" "  58 “第二次衰退”： 1973年之后的危机理论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "58" "\\chapter{“第二次衰退”： 1973年之后的危机理论}" 13157)
 
-(toc "toc" "    56.1 长期繁荣的终结" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.1" "\\section{长期繁荣的终结}" 13190)
+(toc "toc" "    58.1 长期繁荣的终结" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.1" "\\section{长期繁荣的终结}" 13190)
 
 ("eq:weiji1" "e" "r \\equiv \\frac{P}{K} \\equiv \\frac{Y}{Z} \\frac{Z}{K} \\frac{P}{Y} " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
-(toc "toc" "    56.2 对消费不足理论的重新讨论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.2" "\\section{对消费不足理论的重新讨论}" 15363)
+(toc "toc" "    58.2 对消费不足理论的重新讨论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.2" "\\section{对消费不足理论的重新讨论}" 15363)
 
-(toc "toc" "    56.3 再一次提出利润率下降" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.3" "\\section{再一次提出利润率下降}" 18711)
+(toc "toc" "    58.3 再一次提出利润率下降" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.3" "\\section{再一次提出利润率下降}" 18711)
 
 ("eq:weiji2" "e" "r \\equiv \\frac{P}{K} \\equiv \\frac{P}{Y} \\frac{Y}{L} \\frac{L}{K} " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
-(toc "toc" "    56.4 “过度积累”与利润挤压" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.4" "\\section{“过度积累”与利润挤压}" 21869)
+(toc "toc" "    58.4 “过度积累”与利润挤压" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.4" "\\section{“过度积累”与利润挤压}" 21869)
 
 ("tab:weiji1" "t" "美国的利润率及其决定因素，1949-1975" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
 ("eq:weiji3" "e" "\\frac{W}{Y}≡\\frac{W}{L} \\frac{L}{Y} " "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil)
 
-(toc "toc" "    56.5 情感、意志和制度的积累" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.5" "\\section{情感、意志和制度的积累}" 26528)
+(toc "toc" "    58.5 情感、意志和制度的积累" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.5" "\\section{情感、意志和制度的积累}" 26528)
 
-(toc "toc" "    56.6 国家与经济危机" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.6" "\\section{国家与经济危机}" 30538)
+(toc "toc" "    58.6 国家与经济危机" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.6" "\\section{国家与经济危机}" 30538)
 
-(toc "toc" "    56.7 第二次衰退的教训" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "56.7" "\\section{第二次衰退的教训}" 33195)
+(toc "toc" "    58.7 第二次衰退的教训" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.7" "\\section{第二次衰退的教训}" 33195)
 
-(toc "toc" "  57 理性选择马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "57" "\\chapter{理性选择马克思主义}" 34151)
+(toc "toc" "  59 理性选择马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "59" "\\chapter{理性选择马克思主义}" 34151)
 
-(toc "toc" "    57.1 理性选择马克思主义的实质" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.1" "\\section{理性选择马克思主义的实质}" 34172)
+(toc "toc" "    59.1 理性选择马克思主义的实质" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "59.1" "\\section{理性选择马克思主义的实质}" 34172)
 
-(toc "toc" "    57.2 罗默对马克思经济学的看法" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.2" "\\section{罗默对马克思经济学的看法}" 36088)
+(toc "toc" "    59.2 罗默对马克思经济学的看法" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "59.2" "\\section{罗默对马克思经济学的看法}" 36088)
 
-(toc "toc" "    57.3 罗默的马克思主义观的某些局限" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.3" "\\section{罗默的马克思主义观的某些局限}" 39845)
+(toc "toc" "    59.3 罗默的马克思主义观的某些局限" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "59.3" "\\section{罗默的马克思主义观的某些局限}" 39845)
 
-(toc "toc" "    57.4 微观基础和马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.4" "\\section{微观基础和马克思主义}" 44333)
+(toc "toc" "    59.4 微观基础和马克思主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "59.4" "\\section{微观基础和马克思主义}" 44333)
 
-(toc "toc" "    57.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "57.5" "\\section{结论}" 48921)
+(toc "toc" "    59.5 结论" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "59.5" "\\section{结论}" 48921)
 
-(toc "toc" "  58 社会主义政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "58" "\\chapter{社会主义政治经济学}" 52122)
+(toc "toc" "  60 社会主义政治经济学" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 1 "60" "\\chapter{社会主义政治经济学}" 52122)
 
-(toc "toc" "    58.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.1" "\\section{引言}" 52143)
+(toc "toc" "    60.1 引言" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.1" "\\section{引言}" 52143)
 
-(toc "toc" "    58.2 马克思和恩格斯论后资本主义社会" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.2" "\\section{马克思和恩格斯论后资本主义社会}" 55209)
+(toc "toc" "    60.2 马克思和恩格斯论后资本主义社会" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.2" "\\section{马克思和恩格斯论后资本主义社会}" 55209)
 
-(toc "toc" "    58.3 社会主义和第二国际" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.3" "\\section{社会主义和第二国际}" 57858)
+(toc "toc" "    60.3 社会主义和第二国际" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.3" "\\section{社会主义和第二国际}" 57858)
 
-(toc "toc" "    58.4 对斯大林主义之前的苏联实践的反思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.4" "\\section{对斯大林主义之前的苏联实践的反思}" 61881)
+(toc "toc" "    60.4 对斯大林主义之前的苏联实践的反思" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.4" "\\section{对斯大林主义之前的苏联实践的反思}" 61881)
 
-(toc "toc" "    58.5 兰格对米塞斯的回答" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.5" "\\section{兰格对米塞斯的回答}" 64181)
+(toc "toc" "    60.5 兰格对米塞斯的回答" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.5" "\\section{兰格对米塞斯的回答}" 64181)
 
-(toc "toc" "    58.6 斯大林主义经济学和非斯大林化" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.6" "\\section{斯大林主义经济学和非斯大林化}" 68443)
+(toc "toc" "    60.6 斯大林主义经济学和非斯大林化" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.6" "\\section{斯大林主义经济学和非斯大林化}" 68443)
 
-(toc "toc" "    58.7 可行的社会主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "58.7" "\\section{可行的社会主义}" 72531)
+(toc "toc" "    60.7 可行的社会主义" "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex" nil 2 "60.7" "\\section{可行的社会主义}" 72531)
 
 (eof "/home/sd44/xueshu/tex笔记系统/data/marx1929-1990/3.tex")
 
