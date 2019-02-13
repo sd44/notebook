@@ -132,7 +132,7 @@ footnoteleadingratio = 1.56]{zhlineskip}
   % marginparwidth = 80pt,
   top = 3cm,
   bottom = 3cm,
-  headheight = 6mm,
+  headheight = 9mm,
   headsep = 10mm,
   footskip = 10mm,
 }
@@ -246,13 +246,24 @@ footnoteleadingratio = 1.56]{zhlineskip}
   \parindent, %labelindent = \parindent,
   parsep = 0ex, partopsep = 0ex, itemsep = 0.5em }
 
-\setlist[description]{style=standard, font=\sffamily\bfseries}
+\setlist[description]{style=standard, font=\large\sffamily\bfseries}
 \usepackage{multirow, tikz}
 \tikzset{every picture/.style={/utils/exec={\footnotesize}}}
 \usetikzlibrary{calc,patterns,decorations.pathreplacing, intersections}
 \usetikzlibrary{arrows,arrows.meta, datavisualization}
+
+\newdimen\XCoord
+\newdimen\YCoord
+
+\newcommand*{\ExtractCoordinate}[1]{\path (#1); \pgfgetlastxy{\XCoord}{\YCoord};}%
+% \newcommand*{\LabelCurrentCoordinate}[2]{\fill [#1] ($(\XCoord,\YCoord)$) circle (2pt) node [right] {#2}}%
 \usepackage{tcolorbox}
 \tcbuselibrary{most}
+
+
+\newtcolorbox{mybox}[2][]{enhanced jigsaw,fonttitle = \large\sffamily\bfseries, fontupper =
+  \small\itshape, fontlower = \small\itshape, before upper={\parindent=2\ccwd},
+  left=20pt, title=#2,#1}
 
 \RequirePackage{cleveref}
 \crefname{equation}{公式}{公式}
@@ -316,6 +327,16 @@ footnoteleadingratio = 1.56]{zhlineskip}
 %% 目录
 \tableofcontents
 
+%%% 其它部分
+% 插图索引
+\clearpage
+\listoffigures
+% 表格索引
+\clearpage
+\listoftables
+
+% 公式索引
+% \listofequations
 %\pagenumbering{Alph}
 % \include{dta/preface}
 
@@ -325,13 +346,15 @@ footnoteleadingratio = 1.56]{zhlineskip}
 % \input{data/经济思想史/frontmatter}
 
 \mainmatter
-% \input{data/经济思想史/main1}
-% \input{data/经济思想史/main2}
-% \input{data/经济思想史/main3}
-% \input{data/经济思想史/main4}
-% \input{data/经济思想史/main5}
-% \input{data/经济思想史/main6}
+\input{data/经济思想史/main1}
+\input{data/经济思想史/main2}
+\input{data/经济思想史/main3}
+\input{data/经济思想史/main4}
+\input{data/经济思想史/main5}
+\input{data/经济思想史/main6}
 \input{data/经济思想史/main7}
+\input{data/经济思想史/main8}
+\input{data/经济思想史/main9}
 % \include{data/跟大卫哈维读资本论/1}
 % \include{data/跟大卫哈维读资本论/2-1}
 % \include{data/跟大卫哈维读资本论/2-2}
@@ -344,14 +367,6 @@ footnoteleadingratio = 1.56]{zhlineskip}
 % \include{data/marx1929-1990/2}
 % \include{data/marx1929-1990/3}
 
-%%% 其它部分
-%% 本科生要这几个索引，研究生不要。选择性留下。
-% 插图索引
-\listoffigures
-% 表格索引
-\listoftables
-% 公式索引
-% \listofequations
 
 
 %% 参考文献
