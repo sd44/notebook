@@ -1,5 +1,5 @@
 #+BEGIN_SRC dot :file ./test.pdf :cmdline -Kdot -Tpdf
-    digraph simi{
+    digraph mindmap1{
       newrank=true
 
       rankdir=LR
