@@ -1,0 +1,21 @@
+
+\begin{figure}[ht]
+  \centering
+  \begin{tikzpicture}[thick, scale=0.8]
+    \draw (0,0) node[below left] {$O$};
+    \draw[very thick] (0,6) node[above] {价格} -- (0,0)  --  (6,0) node[right] {数量};
+
+    \draw [name path = D, shift={(8,7.09)}] plot[domain=3.44:4.24,variable=\t]({1*6.6*cos(\t r)+0*6.6*sin(\t r)},{0*6.6*cos(\t r)+1*6.6*sin(\t r)}) node[below right]{$D$};
+    \draw [name path = S, shift={(-4.83,11.9)}] plot[domain=5.22:5.69,variable=\t]({1*12.26*cos(\t r)+0*12.26*sin(\t r)},{0*12.26*cos(\t r)+1*12.26*sin(\t r)}) node [above] {$S$};
+
+
+    \path [name intersections={of=D and S,by={X}}];
+    \draw [dashed] (X) -| (X -| 0,0) node [left] {$P_e$};
+    \draw [dashed] (X) |- (X |- 0,0) node [below] {$Q_e$};
+
+    \coordinate (X1) at ([xshift=0.6cm, yshift=-0.9cm]X);
+    \draw [dashed] (X1) -| (X1 -| 0,0) node [left] {$P_1$};
+    \draw [dashed] (X1) |- (X1 |- 0,0) node [below] {$Q_1$};
+  \end{tikzpicture}%
+  \caption{\label{fig:equiliass}均衡假设}
+\end{figure}
