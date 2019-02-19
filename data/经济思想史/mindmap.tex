@@ -1,0 +1,24 @@
+\documentclass{standalone}
+\RequirePackage{luatex85}
+\usepackage[fontset=sourcesans]{ctex}
+
+\usepackage{tikz}
+
+\tikzset{every picture/.style={/utils/exec={\footnotesize}}}
+\usetikzlibrary{calc,patterns,decorations.pathreplacing, intersections}
+\usetikzlibrary{graphs,graphdrawing}
+\usegdlibrary{trees,layered}
+
+\begin{document}
+
+blablabla
+
+% \begin{tikzpicture}[rounded corners]
+% \graph[layered layout, edges=rounded corners, grow=right, sibling distance=5mm]
+% {
+% a -- { b, c, d, e -- {f, g, h} };
+% { h, g } -- a;
+% };
+% \end{tikzpicture}
+
+\end{document}
