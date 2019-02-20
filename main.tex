@@ -145,10 +145,12 @@ footnoteleadingratio = 1.56]{zhlineskip}
 % \lhead{}
 % \rhead{}
 % \chead{\slshape \zihao{5} \leftmark}
+
 \pagestyle{fancy}
-\fancyhead[LE,RO]{\slshape \zihao{5} \rightmark}
-\fancyhead[LO,RE]{\slshape \zihao{5} \leftmark}
-\fancyfoot[C]{\zihao{5} \thepage}
+\fancyhf{} % clear all header and footer fields
+\fancyhead[LE,RO]{\slshape \small \thepage}
+\fancyhead[RE]{\slshape \small \leftmark}
+\fancyhead[LO]{\slshape \small \rightmark}
 \renewcommand{\headrulewidth}{0.75pt}
 \renewcommand{\footrulewidth}{0pt}
 \fancyheadoffset{0cm}
@@ -175,8 +177,11 @@ footnoteleadingratio = 1.56]{zhlineskip}
 
 \usepackage{bookmark}
 \usepackage{booktabs}
+
+\usepackage{pdflscape}
+
+\usepackage[usestackEOL]{stackengine}
 \usepackage{tabularx, diagbox}
-\usepackage{lscape}
 
 \usepackage{float} %允许浮动体强制在下方
 % 双栏排版
@@ -241,7 +246,7 @@ footnoteleadingratio = 1.56]{zhlineskip}
 % \author{孙滨 \and  \url{http://sd44.github.com}}
 % \date{\today}
 
-\usepackage{enumitem}
+\usepackage[shortlabels]{enumitem}
 \setlist{leftmargin= \parindent, itemindent = \parindent, listparindent =
   \parindent, %labelindent = \parindent,
   parsep = 0ex, partopsep = 0ex, itemsep = 0.5em }
@@ -344,21 +349,22 @@ footnoteleadingratio = 1.56]{zhlineskip}
 %% 符号对照表
 %\input{data/denotation}
 %%% 正文部分
-% \input{data/经济思想史/frontmatter}
+\input{data/经济思想史/frontmatter}
 
 \mainmatter
-% \input{data/经济思想史/main1}
-% \input{data/经济思想史/main2}
-% \input{data/经济思想史/main3}
-% \input{data/经济思想史/main4}
-% \input{data/经济思想史/main5}
-% \input{data/经济思想史/main6}
-% \input{data/经济思想史/main7}
-% \input{data/经济思想史/main8}
-% \input{data/经济思想史/main9}
-% \input{data/经济思想史/main10}
-% \input{data/经济思想史/main11}
+\input{data/经济思想史/main1}
+\input{data/经济思想史/main2}
+\input{data/经济思想史/main3}
+\input{data/经济思想史/main4}
+\input{data/经济思想史/main5}
+\input{data/经济思想史/main6}
+\input{data/经济思想史/main7}
+\input{data/经济思想史/main8}
+\input{data/经济思想史/main9}
+\input{data/经济思想史/main10}
+\input{data/经济思想史/main11}
 \input{data/经济思想史/main12}
+\input{data/经济思想史/main13}
 
 % \input{data/经济思想史/mindmap}
 % \include{data/跟大卫哈维读资本论/1}
