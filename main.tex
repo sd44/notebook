@@ -118,8 +118,7 @@ footnoteleadingratio = 1.56]{zhlineskip}
 \renewcommand\thefootnote{{\fnmarkfont\textcircled{\arabic{footnote}}}}
 \makeatother
 
-\AtBeginEnvironment{quotation}{\kaishu}
-
+\AtBeginEnvironment{quotation}{\itshape}
 
 \usepackage{fancyhdr, geometry}
 
@@ -174,7 +173,7 @@ footnoteleadingratio = 1.56]{zhlineskip}
     % pdfkeywords = {}
 }
 % for format of contents
-
+\usepackage{pdfpages}
 \usepackage{bookmark}
 \usepackage{booktabs}
 
@@ -387,7 +386,8 @@ footnoteleadingratio = 1.56]{zhlineskip}
 \phantomsection
 \addcontentsline{toc}{part}{附录}
 \printbibliography[heading=bibnumbered,title=参考文献]
-
+\includepdf[pages=-]{figures/MindMap1.pdf}
+\includepdf[pages=-]{figures/MindMap2.pdf}
 % \chapter{test Append1}
 % \chapter{test Append2}
 
